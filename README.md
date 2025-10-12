@@ -1,14 +1,14 @@
 Initial Commit - <br/>
-  Mapping Generator : Generates JSON file for the data type mapping.<br/>
-  Parser : Parse the Data with the mapping generatod. <br/>
+  **Mapping Generator** : Generates JSON file for the data type mapping.<br/>
+  **Parser** : Parse the Data with the mapping generatod. <br/>
 
-Roadmap: <br/>
-  Mapping Generator - (Done) <br/>
-  Parser - (Done) <br/>
-  Load to Staging Database (Oracle/Postgres) - Under Development <br/>
-  Transform from staging database - > Load into GCP - Under Development <br/>
-  Create a workflow to Automate the process - Data Gathering Stage <br/>
-  Create Report from Prod Data - Under Development <br/>
+**Roadmap:** <br/>
+  Mapping Generator -** (Done)** <br/>
+  Parser - **(Done)** <br/>
+  Load to Staging Database (Oracle/Postgres) - _Under Development_ <br/>
+  Transform from staging database - > Load into GCP - _Under Development_ <br/>
+  Create a workflow to Automate the process - _Data Gathering Stage_ <br/>
+  Create Report from Prod Data - _Under Development_ <br/>
 
 Mapping Generator: <br/>
 <img width="727" height="242" alt="image" src="https://github.com/user-attachments/assets/d4ebd3ab-b95c-4b9c-9716-3993440d765b" />
