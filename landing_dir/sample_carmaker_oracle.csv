@@ -1,0 +1,501 @@
+Country,Mfr_CommonName,Mfr_ID,Mfr_Name,VehicleTypes,date_fetched
+UNITED STATES (USA),Tesla,955,"TESLA, INC.","[{'IsPrimary': True, 'Name': 'Passenger Car'}, {'IsPrimary': False, 'Name': 'Truck'}, {'IsPrimary': False, 'Name': 'Multipurpose Passenger Vehicle (MPV)'}]",2025-10-13 01:27:07.653635
+UNITED KINGDOM (UK),Aston Martin,956,ASTON MARTIN LAGONDA LIMITED,"[{'IsPrimary': False, 'Name': 'Passenger Car'}, {'IsPrimary': False, 'Name': 'Multipurpose Passenger Vehicle (MPV)'}]",2025-10-13 01:27:07.653635
+UNITED STATES (USA),BMW,957,"BMW OF NORTH AMERICA, LLC",[],2025-10-13 01:27:07.653635
+UNITED STATES (USA),Jaguar Land Rover,958,"JAGUAR LAND ROVER NA, LLC","[{'IsPrimary': True, 'Name': 'Passenger Car'}, {'IsPrimary': False, 'Name': 'Truck'}, {'IsPrimary': False, 'Name': 'Multipurpose Passenger Vehicle (MPV)'}]",2025-10-13 01:27:07.653635
+UNITED STATES (USA),Mesarati,959,"MASERATI NORTH AMERICA, INC.","[{'IsPrimary': False, 'Name': 'Passenger Car'}, {'IsPrimary': True, 'Name': 'Multipurpose Passenger Vehicle (MPV)'}]",2025-10-13 01:27:07.653635
+UNITED STATES (USA),Rolls Royce,960,ROLLS ROYCE MOTOR CARS,[],2025-10-13 01:27:07.653635
+UNITED STATES (USA),Buell,961,BUELL MOTORCYCLE CO.,"[{'IsPrimary': True, 'Name': 'Motorcycle'}]",2025-10-13 01:27:07.653635
+UNITED STATES (USA),Toyota,962,"TOYOTA MOTOR NORTH AMERICA, INC",[],2025-10-13 01:27:07.653635
+UNITED STATES (USA),Mercedes-Benz Sprinter,964,"MERCEDES-BENZ USA, LLC (SPRINTER)",[],2025-10-13 01:27:07.653635
+UNITED STATES (USA),,965,FULMER FABRICATIONS,"[{'IsPrimary': False, 'Name': 'Motorcycle'}]",2025-10-13 01:27:07.653635
+GERMANY,BMW,966,BMW AG,[],2025-10-13 01:27:07.653635
+GERMANY,BMW,967,BMW M GMBH,"[{'IsPrimary': True, 'Name': 'Passenger Car'}]",2025-10-13 01:27:07.653635
+UNITED STATES (USA),BMW,968,BMW MANUFACTURER CORPORATION / BMW NORTH AMERICA,"[{'IsPrimary': True, 'Name': 'Passenger Car'}]",2025-10-13 01:27:07.653635
+UNITED STATES (USA),Motorcycle Machine Shop Services,969,"MOTORCYCLE MACHINE SHOP SERVICES, LLC",[],2025-10-13 01:27:07.653635
+FRANCE,Bugatti,970,BUGATTI AUTOMOBILES S.A.S.,"[{'IsPrimary': True, 'Name': 'Passenger Car'}]",2025-10-13 01:27:07.653635
+UNITED STATES (USA),Hombilt,971,HOMBILT TRAILERS INC,"[{'IsPrimary': False, 'Name': 'Trailer'}]",2025-10-13 01:27:07.653635
+GERMANY,BMW Motorrad (Motorcycles),972,BMW AG MOTORCYCLES,[],2025-10-13 01:27:07.653635
+UNITED STATES (USA),ACG,973,"AMERICAN CUSTOM GOLF CARS, INC","[{'IsPrimary': True, 'Name': 'Low Speed Vehicle (LSV)'}, {'IsPrimary': False, 'Name': 'Off Road Vehicle'}]",2025-10-13 01:27:07.653635
+UNITED STATES (USA),,974,MOONLIGHT AUTO,"[{'IsPrimary': False, 'Name': 'Motorcycle'}]",2025-10-13 01:27:07.653635
+UNITED STATES (USA),Cooper Cycles,975,COOPER CYCLES,[],2025-10-13 01:27:07.653635
+UNITED STATES (USA),Ford,976,FORD MOTOR COMPANY,"[{'IsPrimary': False, 'Name': 'Passenger Car'}, {'IsPrimary': False, 'Name': 'Truck'}, {'IsPrimary': False, 'Name': 'Bus'}, {'IsPrimary': True, 'Name': 'Multipurpose Passenger Vehicle (MPV)'}, {'IsPrimary': False, 'Name': 'Incomplete Vehicle'}]",2025-10-13 01:27:07.653635
+CANADA,Ford,977,"FORD MOTOR COMPANY OF CANADA, LTD.",[],2025-10-13 01:27:07.653635
+UNITED STATES (USA),Auto Alliance,978,"AUTO ALLIANCE INTERNATIONAL, USA",[],2025-10-13 01:27:07.653635
+MEXICO,Ford,979,"FORD MOTOR COMPANY, MEXICO",[],2025-10-13 01:27:07.653635
+UNITED STATES (USA),Latitude,980,"LATITUDE CAMPER COMPANY, LLC","[{'IsPrimary': False, 'Name': 'Trailer'}]",2025-10-13 01:27:07.653635
+UNITED STATES (USA),,981,COUNTRY COACH CORPORATION,"[{'IsPrimary': False, 'Name': 'Multipurpose Passenger Vehicle (MPV)'}]",2025-10-13 01:27:07.653635
+CANADA,Westward,982,WESTWARD INDUSTRIES LTD.,"[{'IsPrimary': False, 'Name': 'Motorcycle'}]",2025-10-13 01:27:07.653635
+UNITED KINGDOM (UK),Lotus,983,LOTUS CARS LIMITED,"[{'IsPrimary': True, 'Name': 'Passenger Car'}]",2025-10-13 01:27:07.653635
+UNITED STATES (USA),General Motors,984,GENERAL MOTORS LLC,"[{'IsPrimary': False, 'Name': 'Passenger Car'}, {'IsPrimary': False, 'Name': 'Truck'}, {'IsPrimary': False, 'Name': 'Bus'}, {'IsPrimary': False, 'Name': 'Multipurpose Passenger Vehicle (MPV)'}, {'IsPrimary': True, 'Name': 'Incomplete Vehicle'}]",2025-10-13 01:27:07.653635
+MEXICO,Blue Diamond,985,"BLUE DIAMOND TRUCK, S. DE R. L. DE C. V.","[{'IsPrimary': False, 'Name': 'Incomplete Vehicle'}]",2025-10-13 01:27:07.653635
+TURKEY,Ford,986,"FORD OTOMOTIV SANAYI A.S., TURKEY",[],2025-10-13 01:27:07.653635
+JAPAN,Honda,987,"HONDA MOTOR CO., LTD.","[{'IsPrimary': False, 'Name': 'Motorcycle'}, {'IsPrimary': False, 'Name': 'Passenger Car'}, {'IsPrimary': False, 'Name': 'Multipurpose Passenger Vehicle (MPV)'}]",2025-10-13 01:27:07.653635
+UNITED STATES (USA),Honda,988,"AMERICAN HONDA MOTOR CO., INC.","[{'IsPrimary': True, 'Name': 'Passenger Car'}, {'IsPrimary': False, 'Name': 'Truck'}, {'IsPrimary': False, 'Name': 'Multipurpose Passenger Vehicle (MPV)'}]",2025-10-13 01:27:07.653635
+CANADA,Honda,990,"HONDA OF CANADA MFG., A DIVISION OF HONDA CANADA INC.","[{'IsPrimary': False, 'Name': 'Passenger Car'}, {'IsPrimary': False, 'Name': 'Truck'}, {'IsPrimary': False, 'Name': 'Multipurpose Passenger Vehicle (MPV)'}]",2025-10-13 01:27:07.653635
+UNITED KINGDOM (UK),Honda,991,"HONDA OF THE U.K. MFG., LTD.","[{'IsPrimary': False, 'Name': 'Passenger Car'}, {'IsPrimary': False, 'Name': 'Multipurpose Passenger Vehicle (MPV)'}]",2025-10-13 01:27:07.653635
+MEXICO,,992,"HONDA DE MEXICO, S.A. DE C.V.","[{'IsPrimary': False, 'Name': 'Motorcycle'}, {'IsPrimary': False, 'Name': 'Passenger Car'}, {'IsPrimary': False, 'Name': 'Multipurpose Passenger Vehicle (MPV)'}]",2025-10-13 01:27:07.653635
+UNITED STATES (USA),Chrysler,994,FCA US LLC,"[{'IsPrimary': False, 'Name': 'Passenger Car'}, {'IsPrimary': True, 'Name': 'Multipurpose Passenger Vehicle (MPV)'}, {'IsPrimary': False, 'Name': 'Incomplete Vehicle'}]",2025-10-13 01:27:07.653635
+CANADA,Chrysler,995,FCA CANADA INC.,[],2025-10-13 01:27:07.653635
+JAPAN,Nissan,996,"NISSAN MOTOR COMPANY, LTD","[{'IsPrimary': False, 'Name': 'Passenger Car'}, {'IsPrimary': False, 'Name': 'Truck'}, {'IsPrimary': False, 'Name': 'Multipurpose Passenger Vehicle (MPV)'}, {'IsPrimary': False, 'Name': 'Incomplete Vehicle'}]",2025-10-13 01:27:07.653635
+UNITED STATES (USA),Nissan,997,"NISSAN NORTH AMERICA, INC.","[{'IsPrimary': False, 'Name': 'Passenger Car'}, {'IsPrimary': False, 'Name': 'Truck'}, {'IsPrimary': False, 'Name': 'Bus'}, {'IsPrimary': False, 'Name': 'Multipurpose Passenger Vehicle (MPV)'}]",2025-10-13 01:27:07.653635
+CANADA,Quest Manufacturing,998,QUEST MANUFACTURING,[],2025-10-13 01:27:07.653635
+MEXICO,Nissan,999,"NISSAN MEXICANA, S.A. DE C.V.",[],2025-10-13 01:27:07.653635
+SOUTH KOREA,Renault Samsung,1000,"RENAULT SAMSUNG MOTORS CO., LTD",[],2025-10-13 01:27:07.653635
+FRANCE,Renault,1001,RENAULT GROUP,[],2025-10-13 01:27:07.653635
+MEXICO,Chrysler,1002,CHRYSLER DE MEXICO TOLUCA,[],2025-10-13 01:27:07.653635
+UNITED STATES (USA),Club Car,1003,CLUB CAR LLC.,"[{'IsPrimary': False, 'Name': 'Low Speed Vehicle (LSV)'}]",2025-10-13 01:27:07.653635
+UNITED STATES (USA),Volvo,1006,"VOLVO CAR USA, LLC","[{'IsPrimary': False, 'Name': 'Passenger Car'}, {'IsPrimary': True, 'Name': 'Multipurpose Passenger Vehicle (MPV)'}]",2025-10-13 01:27:07.653635
+CHINA,Geely,1011,"ZHEJIANG GEELY HOLDING GROUP CO.,LTD",[],2025-10-13 01:27:07.653635
+UNITED STATES (USA),Golf Cars of Arizona,1014,GOLF CARS OF ARIZONA,"[{'IsPrimary': False, 'Name': 'Low Speed Vehicle (LSV)'}]",2025-10-13 01:27:07.653635
+UNITED STATES (USA),Volvo (Truck / Bus),1015,"VOLVO GROUP NORTH AMERICA, LLC","[{'IsPrimary': True, 'Name': 'Truck'}, {'IsPrimary': False, 'Name': 'Bus'}]",2025-10-13 01:27:07.653635
+GERMANY,Mercedes-Benz,1023,"MERCEDES-BENZ, AG","[{'IsPrimary': True, 'Name': 'Passenger Car'}, {'IsPrimary': False, 'Name': 'Multipurpose Passenger Vehicle (MPV)'}]",2025-10-13 01:27:07.653635
+UNITED STATES (USA),DTNA,1024,DAIMLER TRUCK NORTH AMERICA LLC,"[{'IsPrimary': True, 'Name': 'Truck'}, {'IsPrimary': False, 'Name': 'Incomplete Vehicle'}]",2025-10-13 01:27:07.653635
+UNITED STATES (USA),,1025,FREIGHTLINER CUSTOM CHASSIS CORP.,"[{'IsPrimary': True, 'Name': 'Incomplete Vehicle'}]",2025-10-13 01:27:07.653635
+UNITED STATES (USA),Coachworks,1026,COACHWORKS HOLDINGS INC,[],2025-10-13 01:27:07.653635
+UNITED STATES (USA),Mack Trucks,1027,MACK TRUCKS INC.,"[{'IsPrimary': True, 'Name': 'Truck'}, {'IsPrimary': False, 'Name': 'Incomplete Vehicle'}]",2025-10-13 01:27:07.653635
+UNITED STATES (USA),,1028,"INTERNATIONAL MOTORS, LLC","[{'IsPrimary': False, 'Name': 'Truck'}, {'IsPrimary': False, 'Name': 'Incomplete Vehicle'}]",2025-10-13 01:27:07.653635
+ITALY,Fiat,1029,FCA ITALY S.P.A.,"[{'IsPrimary': True, 'Name': 'Passenger Car'}, {'IsPrimary': False, 'Name': 'Truck'}, {'IsPrimary': False, 'Name': 'Multipurpose Passenger Vehicle (MPV)'}]",2025-10-13 01:27:07.653635
+UNITED STATES (USA),Chairiot Mobility,1030,CHAIRIOT MOBILITY INC,"[{'IsPrimary': True, 'Name': 'Low Speed Vehicle (LSV)'}]",2025-10-13 01:27:07.653635
+UNITED STATES (USA),PACCAR,1031,PACCAR INC.,"[{'IsPrimary': True, 'Name': 'Truck'}]",2025-10-13 01:27:07.653635
+UNITED STATES (USA),Kenworth,1032,KENWORTH TRUCK COMPANY,[],2025-10-13 01:27:07.653635
+UNITED STATES (USA),Peterbilt,1033,PETERBILT MOTORS COMPANY,[],2025-10-13 01:27:07.653635
+UNITED STATES (USA),Hyundai-Kia,1034,HYUNDAI-KIA AMERICA TECHNICAL CENTER INC (HATCI),"[{'IsPrimary': True, 'Name': 'Passenger Car'}, {'IsPrimary': False, 'Name': 'Truck'}, {'IsPrimary': False, 'Name': 'Multipurpose Passenger Vehicle (MPV)'}]",2025-10-13 01:27:07.653635
+UNITED STATES (USA),,1035,MAD DAWG CYCLES AND TRAILERS,"[{'IsPrimary': False, 'Name': 'Motorcycle'}, {'IsPrimary': False, 'Name': 'Trailer'}]",2025-10-13 01:27:07.653635
+UNITED STATES (USA),Mills Manufacturing,1038,MILLS MANUFACTURING INC,[],2025-10-13 01:27:07.653635
+UNITED STATES (USA),,1040,HAYES WELDING INC,"[{'IsPrimary': False, 'Name': 'Trailer'}]",2025-10-13 01:27:07.653635
+JAPAN,Mazda,1041,MAZDA MOTOR CORPORATION,"[{'IsPrimary': False, 'Name': 'Passenger Car'}, {'IsPrimary': True, 'Name': 'Multipurpose Passenger Vehicle (MPV)'}]",2025-10-13 01:27:07.653635
+GERMANY,Mercedes-Benz,1042,MERCEDES-BENZ CARS,[],2025-10-13 01:27:07.653635
+UNITED STATES (USA),Mercedes-Benz,1043,"MERCEDES-BENZ OF NORTH AMERICA, INC.","[{'IsPrimary': False, 'Name': 'Passenger Car'}]",2025-10-13 01:27:07.653635
+UNITED STATES (USA),,1044,BLUE BIRD BODY COMPANY,"[{'IsPrimary': True, 'Name': 'Bus'}, {'IsPrimary': False, 'Name': 'Multipurpose Passenger Vehicle (MPV)'}]",2025-10-13 01:27:07.653635
+UNITED STATES (USA),Optima,1045,OPTIMA BUS CORP,[],2025-10-13 01:27:07.653635
+UNITED STATES (USA),NABI,1047,"NORTH AMERICAN BUS INDUSTRIES INC., LLC",[],2025-10-13 01:27:07.653635
+UNITED STATES (USA),Suzuki,1048,"SUZUKI MOTOR OF AMERICA, INC","[{'IsPrimary': True, 'Name': 'Motorcycle'}]",2025-10-13 01:27:07.653635
+UNITED STATES (USA),,1050,"E-ONE, INC.","[{'IsPrimary': True, 'Name': 'Truck'}]",2025-10-13 01:27:07.653635
+JAPAN,Mitsubishi,1052,MITSUBISHI MOTORS CORPORATION (MMC),[],2025-10-13 01:27:07.653635
+UNITED STATES (USA),,1053,PETE’S GOLF CARTS,"[{'IsPrimary': True, 'Name': 'Low Speed Vehicle (LSV)'}]",2025-10-13 01:27:07.653635
+UNITED STATES (USA),Mitsubishi,1054,MITSUBISHI MOTORS NORTH AMERICA,[],2025-10-13 01:27:07.653635
+UNITED STATES (USA),International,1055,INTERNATIONAL TRUCK AND ENGINE CORPORATION,"[{'IsPrimary': True, 'Name': 'Truck'}]",2025-10-13 01:27:07.653635
+UNITED STATES (USA),Hino,1056,HINO MOTORS MANUFACTURING U.S.A.,"[{'IsPrimary': False, 'Name': 'Truck'}, {'IsPrimary': True, 'Name': 'Incomplete Vehicle'}]",2025-10-13 01:27:07.653635
+JAPAN,Toyota,1057,TOYOTA MOTOR CORPORATION,[],2025-10-13 01:27:07.653635
+UNITED STATES (USA),,1058,OSHKOSH CORPORATION,"[{'IsPrimary': False, 'Name': 'Truck'}, {'IsPrimary': False, 'Name': 'Trailer'}]",2025-10-13 01:27:07.653635
+MEXICO,Toyota,1059,TOYOTA MOTOR MFG DE BAJA CALIFORNIA S DE RL DE CV,[],2025-10-13 01:27:07.653635
+UNITED STATES (USA),UD,1060,UD TRUCKS CORPORATION (USA),"[{'IsPrimary': True, 'Name': 'Truck'}]",2025-10-13 01:27:07.653635
+UNITED STATES (USA),Owosso,1061,OWOSSO MOTOR CAR COMPANY,[],2025-10-13 01:27:07.653635
+UNITED STATES (USA),NUMMI,1062,"NEW UNITED MOTOR MANUFACTURING, INC.",[],2025-10-13 01:27:07.653635
+UNITED STATES (USA),Toyota,1063,"TOYOTA MOTOR MANUFACTURING, CALIFORNIA, INC.",[],2025-10-13 01:27:07.653635
+UNITED STATES (USA),,1064,"IC BUS, LLC","[{'IsPrimary': False, 'Name': 'Truck'}, {'IsPrimary': True, 'Name': 'Bus'}, {'IsPrimary': False, 'Name': 'Incomplete Vehicle'}]",2025-10-13 01:27:07.653635
+UNITED STATES (USA),Great Dane,1073,GREAT DANE TRAILERS,[],2025-10-13 01:27:07.653635
+CANADA,Navistar Canada,1074,"NAVISTAR CANADA, INC.",[],2025-10-13 01:27:07.653635
+UNITED STATES (USA),Subaru,1075,"FUJI HEAVY INDUSTRIES U.S.A., INC. (C/O SUBARU OF AMERICA)","[{'IsPrimary': False, 'Name': 'Passenger Car'}]",2025-10-13 01:27:07.653635
+UNITED STATES (USA),Workhorse,1078,WORKHORSE CUSTOM CHASSIS,[],2025-10-13 01:27:07.653635
+UNITED KINGDOM (UK),Jaguar Land Rover,1079,JAGUAR LAND ROVER LIMITED,"[{'IsPrimary': True, 'Name': 'Passenger Car'}, {'IsPrimary': False, 'Name': 'Multipurpose Passenger Vehicle (MPV)'}]",2025-10-13 01:27:07.653635
+CHINA,,1080,"ZHEJIANG GEELY MING INDUSTRIAL CO., LTD","[{'IsPrimary': False, 'Name': 'Motorcycle'}]",2025-10-13 01:27:07.653635
+JAPAN,Mitsubishi Fuso,1081,MITSUBISHI FUSO TRUCK AND BUS CORPORATION,"[{'IsPrimary': True, 'Name': 'Truck'}, {'IsPrimary': False, 'Name': 'Bus'}]",2025-10-13 01:27:07.653635
+MEXICO,Mazda,1083,MAZDA MOTOR MANUFACTURING DE MEXICO S.A. DE C.V.,"[{'IsPrimary': False, 'Name': 'Passenger Car'}, {'IsPrimary': True, 'Name': 'Multipurpose Passenger Vehicle (MPV)'}]",2025-10-13 01:27:07.653635
+UNITED STATES (USA),,1084,"FOREST RIVER, INC.","[{'IsPrimary': True, 'Name': 'Truck'}, {'IsPrimary': False, 'Name': 'Bus'}, {'IsPrimary': False, 'Name': 'Trailer'}, {'IsPrimary': False, 'Name': 'Multipurpose Passenger Vehicle (MPV)'}]",2025-10-13 01:27:07.653635
+CANADA,Toyota,1085,TOYOTA MOTOR MANUFACTURING CANADA,[],2025-10-13 01:27:07.653635
+UNITED STATES (USA),TBB,1086,"THOMAS BUILT BUSES, INC","[{'IsPrimary': False, 'Name': 'Bus'}]",2025-10-13 01:27:07.653635
+UNITED STATES (USA),Toyota,1087,"TOYOTA MOTOR MANUFACTURING, INDIANA, INC.",[],2025-10-13 01:27:07.653635
+UNITED STATES (USA),Toyota,1088,"TOYOTA MOTOR MANUFACTURING, KENTUCKY, INC.",[],2025-10-13 01:27:07.653635
+UNITED STATES (USA),,1089,"JOHN THOMAS, INC","[{'IsPrimary': True, 'Name': 'Trailer'}]",2025-10-13 01:27:07.653635
+UNITED STATES (USA),Toyota,1090,"TOYOTA MOTOR MANUFACTURING, TEXAS, INC.",[],2025-10-13 01:27:07.653635
+UNITED STATES (USA),Toyota,1091,"TOYOTA MOTOR MANUFACTURING, NORTHERN KENTUCKY, INC.",[],2025-10-13 01:27:07.653635
+UNITED STATES (USA),Thomas Grinding,1092,THOMAS GRINDING INC.,"[{'IsPrimary': True, 'Name': 'Trailer'}]",2025-10-13 01:27:07.653635
+UNITED STATES (USA),Morgan Trailers,1095,"MORGAN TRAILERS, INC","[{'IsPrimary': True, 'Name': 'Trailer'}]",2025-10-13 01:27:07.653635
+UNITED STATES (USA),Altec,1096,"ALTEC ENVIRONMENTAL PRODUCTS, LLC",[],2025-10-13 01:27:07.653635
+UNITED STATES (USA),Isuzu,1098,"ISUZU MANUFACTURING SERVICES OF AMERICA, INC.",[],2025-10-13 01:27:07.653635
+UNITED STATES (USA),Central Ohio Fabrication,1099,CENTRAL OHIO FABRICATION LLC,"[{'IsPrimary': True, 'Name': 'Trailer'}]",2025-10-13 01:27:07.653635
+UNITED STATES (USA),Thor Motor Coach,1100,THOR MOTOR COACH INC.,[],2025-10-13 01:27:07.653635
+UNITED STATES (USA),,1101,THOR INDUSTRIES INC,"[{'IsPrimary': True, 'Name': 'Trailer'}, {'IsPrimary': False, 'Name': 'Multipurpose Passenger Vehicle (MPV)'}]",2025-10-13 01:27:07.653635
+UNITED STATES (USA),Breckenridge,1102,BRECKENRIDGE,[],2025-10-13 01:27:07.653635
+UNITED STATES (USA),Cruiser RV,1104,CRUISER RV,"[{'IsPrimary': True, 'Name': 'Trailer'}]",2025-10-13 01:27:07.653635
+UNITED STATES (USA),,1106,"MVP RV INC. (THOR CALIFORNIA, INC.)","[{'IsPrimary': True, 'Name': 'Trailer'}]",2025-10-13 01:27:07.653635
+UNITED STATES (USA),Thor Manufacturing,1107,THOR MANUFACTURING LLC,"[{'IsPrimary': False, 'Name': 'Trailer'}]",2025-10-13 01:27:07.653635
+UNITED STATES (USA),Winnebago Of Indiana,1108,"WINNEBAGO OF INDIANA, LLC","[{'IsPrimary': True, 'Name': 'Trailer'}]",2025-10-13 01:27:07.653635
+JAPAN,HINO TRUCKS,1109,"HINO MOTORS, LTD.","[{'IsPrimary': False, 'Name': 'Truck'}, {'IsPrimary': False, 'Name': 'Incomplete Vehicle'}]",2025-10-13 01:27:07.653635
+UNITED STATES (USA),Supreme Corp.,1110,SUPREME CORPORATION,"[{'IsPrimary': True, 'Name': 'Truck'}, {'IsPrimary': False, 'Name': 'Trailer'}, {'IsPrimary': False, 'Name': 'Incomplete Vehicle'}]",2025-10-13 01:27:07.653635
+UNITED STATES (USA),KNAPHEIDE Truck,1115,KNAPHEIDE TRUCK EQUIPMENT COMPANY SOUTHWEST,"[{'IsPrimary': False, 'Name': 'Truck'}]",2025-10-13 01:27:07.653635
+UNITED STATES (USA),Collins Welding,1116,"COLLINS WELDING, INC.","[{'IsPrimary': True, 'Name': 'Trailer'}]",2025-10-13 01:27:07.653635
+UNITED STATES (USA),Gillig,1118,GILLIG LLC,"[{'IsPrimary': True, 'Name': 'Bus'}]",2025-10-13 01:27:07.653635
+UNITED STATES (USA),Champion Trike,1119,CHAMPION TRIKE MANUFACTURING INC.,"[{'IsPrimary': True, 'Name': 'Motorcycle'}]",2025-10-13 01:27:07.653635
+UNITED STATES (USA),,1120,"CHAMPION TELECOM, INC.","[{'IsPrimary': False, 'Name': 'Trailer'}]",2025-10-13 01:27:07.653635
+UNITED STATES (USA),,1121,"CHAMPION BRIDGE CO., INC.","[{'IsPrimary': False, 'Name': 'Trailer'}]",2025-10-13 01:27:07.653635
+UNITED STATES (USA),,1122,"CHAMPION TRAILERS, INC.","[{'IsPrimary': False, 'Name': 'Trailer'}]",2025-10-13 01:27:07.653635
+UNITED STATES (USA),Micro-Lite Trailer,1123,MICRO-LITE TRAILER MFG. LLC,[],2025-10-13 01:27:07.653635
+UNITED STATES (USA),PIERCE MANUFACTURING,1124,PIERCE MANUFACTURING INC.,"[{'IsPrimary': True, 'Name': 'Truck'}]",2025-10-13 01:27:07.653635
+UNITED STATES (USA),MCI,1126,"MOTOR COACH INDUSTRIES, INC.","[{'IsPrimary': True, 'Name': 'Bus'}, {'IsPrimary': False, 'Name': 'Incomplete Vehicle'}]",2025-10-13 01:27:07.653635
+UNITED STATES (USA),,1127,TURTLEBACK TRAILERS LLC,"[{'IsPrimary': False, 'Name': 'Trailer'}]",2025-10-13 01:27:07.653635
+UNITED STATES (USA),PREVOST,1128,PREVOST CAR (US) INC.,"[{'IsPrimary': True, 'Name': 'Bus'}]",2025-10-13 01:27:07.653635
+TURKEY,TEMSA,1129,TEMSA SKODA SABANCI ULASIM ARACLARI A.S.,"[{'IsPrimary': False, 'Name': 'Bus'}, {'IsPrimary': False, 'Name': 'Incomplete Vehicle'}]",2025-10-13 01:27:07.653635
+UNITED STATES (USA),Yamaha,1130,YAMAHA MOTOR CORPORATION,"[{'IsPrimary': True, 'Name': 'Motorcycle'}]",2025-10-13 01:27:07.653635
+UNITED STATES (USA),Triumph,1131,TRIUMPH MOTORCYCLES (AMERICA) LIMITED,"[{'IsPrimary': True, 'Name': 'Motorcycle'}]",2025-10-13 01:27:07.653635
+UNITED STATES (USA),Polaris,1132,POLARIS INDUSTRIES INC.,"[{'IsPrimary': True, 'Name': 'Motorcycle'}, {'IsPrimary': False, 'Name': 'Low Speed Vehicle (LSV)'}]",2025-10-13 01:27:07.653635
+ITALY,Ducati,1133,DUCATI MOTOR HOLDING S.P.A. ,"[{'IsPrimary': True, 'Name': 'Motorcycle'}]",2025-10-13 01:27:07.653635
+CANADA,BRP,1134,BOMBARDIER RECREATIONAL PRODUCTS INC ,"[{'IsPrimary': False, 'Name': 'Motorcycle'}, {'IsPrimary': False, 'Name': 'Trailer'}, {'IsPrimary': True, 'Name': 'Low Speed Vehicle (LSV)'}, {'IsPrimary': False, 'Name': 'Off Road Vehicle'}]",2025-10-13 01:27:07.653635
+TAIWAN,Genuine Scooters,1135,MOTIVE POWER INDUSTRY CO. LTD.,"[{'IsPrimary': False, 'Name': 'Motorcycle'}]",2025-10-13 01:27:07.653635
+UNITED STATES (USA),,1136,GENUINE JACKS MANUFACTURING INC,"[{'IsPrimary': True, 'Name': 'Trailer'}]",2025-10-13 01:27:07.653635
+UNITED STATES (USA),SAAB,1137,"SAAB CARS NORTH AMERICA, INC.",[],2025-10-13 01:27:07.653635
+ITALY,Moto Guzzi,1139,MOTO GUZZI S.P.A,"[{'IsPrimary': True, 'Name': 'Motorcycle'}]",2025-10-13 01:27:07.653635
+UNITED STATES (USA),,1140,VICTORY SWEEPERS INC,[],2025-10-13 01:27:07.653635
+UNITED STATES (USA),,1141,VICTORY INDUSTRIAL PRODUCTS,"[{'IsPrimary': True, 'Name': 'Trailer'}]",2025-10-13 01:27:07.653635
+UNITED STATES (USA),,1142,KTLL GROUP LLC DBA VICTORY TRAILERS,"[{'IsPrimary': False, 'Name': 'Trailer'}]",2025-10-13 01:27:07.653635
+UNITED STATES (USA),,1144,ROCKET ROGERS VICTORY OLD 97 CHOPPERS INC,"[{'IsPrimary': True, 'Name': 'Motorcycle'}]",2025-10-13 01:27:07.653635
+UNITED STATES (USA),Toyota,1145,"TOYOTA MOTOR MANUFACTURING, MISSISSIPPI, INC.",[],2025-10-13 01:27:07.653635
+GERMANY,Daimler Chrysler,1146,DAIMLER CHRYSLER AG,[],2025-10-13 01:27:07.653635
+UNITED STATES (USA),Volkswagen,1147,"VOLKSWAGEN GROUP OF AMERICA, INC.","[{'IsPrimary': False, 'Name': 'Passenger Car'}, {'IsPrimary': True, 'Name': 'Multipurpose Passenger Vehicle (MPV)'}]",2025-10-13 01:27:07.653635
+GERMANY,Volkswagen,1148,VOLKSWAGEN AG,"[{'IsPrimary': False, 'Name': 'Passenger Car'}, {'IsPrimary': False, 'Name': 'Multipurpose Passenger Vehicle (MPV)'}]",2025-10-13 01:27:07.653635
+GERMANY,Audi,1149,AUDI AG,"[{'IsPrimary': False, 'Name': 'Passenger Car'}, {'IsPrimary': False, 'Name': 'Multipurpose Passenger Vehicle (MPV)'}]",2025-10-13 01:27:07.653635
+GERMANY,Audi,1150,AUDI SPORT GMBH,"[{'IsPrimary': False, 'Name': 'Passenger Car'}, {'IsPrimary': False, 'Name': 'Multipurpose Passenger Vehicle (MPV)'}]",2025-10-13 01:27:07.653635
+UNITED STATES (USA),Google Auto,1151,GOOGLE AUTO LLC,"[{'IsPrimary': True, 'Name': 'Low Speed Vehicle (LSV)'}]",2025-10-13 01:27:07.653635
+UNITED STATES (USA),Kawasaki,1152,"KAWASAKI MOTORS, LTD","[{'IsPrimary': True, 'Name': 'Motorcycle'}]",2025-10-13 01:27:07.653635
+TAIWAN,Yamaha,1153,"YAMAHA MOTOR TAIWAN CO., LTD.","[{'IsPrimary': True, 'Name': 'Motorcycle'}]",2025-10-13 01:27:07.653635
+FRANCE,Toyota,1155,"TOYOTA MOTOR MANUFACTURING, FRANCE, S.A.S.",[],2025-10-13 01:27:07.653635
+UNITED STATES (USA),Workhorse Manufacturing Inc,1156,"WORKHORSE MANUFACTURING, INC",[],2025-10-13 01:27:07.653635
+UNITED STATES (USA),Workhorse Water Trailer,1157,"WATERTRAILERS.NET, INC.","[{'IsPrimary': True, 'Name': 'Trailer'}]",2025-10-13 01:27:07.653635
+UNITED STATES (USA),,1158,WORKHORSE INDUSTRIES OF TEXAS,[],2025-10-13 01:27:07.653635
+UNITED STATES (USA),Shasta,1159,SHASTA INDUSTRIES LLC,[],2025-10-13 01:27:07.653635
+BELGIUM,Van Hool,1163,VAN HOOL N.V.,"[{'IsPrimary': True, 'Name': 'Bus'}, {'IsPrimary': False, 'Name': 'Incomplete Vehicle'}]",2025-10-13 01:27:07.653635
+UNITED STATES (USA),Volvo Bus (Mexico),1164,"VOLVO INDUSTRIAL DE MEXICO, S.A. DE C.V.","[{'IsPrimary': True, 'Name': 'Bus'}]",2025-10-13 01:27:07.653635
+BRAZIL,Busscar,1166,BUSSCAR ONIBUS S.A.,"[{'IsPrimary': True, 'Name': 'Bus'}]",2025-10-13 01:27:07.653635
+CHINA,ZheJiang LingYun,1167,"ZHEJIANG LINGYUN MOTORCYCLE CO., LTD.","[{'IsPrimary': True, 'Name': 'Motorcycle'}]",2025-10-13 01:27:07.653635
+UNITED STATES (USA),KTMMEX ,1168,KTMMEX SA. DE CV.,[],2025-10-13 01:27:07.653635
+UNITED STATES (USA),Ferrari,1169,"FERRARI NORTH AMERICA, INC.","[{'IsPrimary': True, 'Name': 'Passenger Car'}, {'IsPrimary': False, 'Name': 'Multipurpose Passenger Vehicle (MPV)'}]",2025-10-13 01:27:07.653635
+JAPAN,Isuzu,1171,"ISUZU MOTORS LIMITED, JAPAN","[{'IsPrimary': False, 'Name': 'Passenger Car'}, {'IsPrimary': False, 'Name': 'Truck'}, {'IsPrimary': False, 'Name': 'Multipurpose Passenger Vehicle (MPV)'}, {'IsPrimary': False, 'Name': 'Incomplete Vehicle'}]",2025-10-13 01:27:07.653635
+UNITED STATES (USA),BRECKENRIDGE PARK,1173,DAMON CORPORATION,"[{'IsPrimary': True, 'Name': 'Multipurpose Passenger Vehicle (MPV)'}]",2025-10-13 01:27:07.653635
+UNITED STATES (USA),MOBILITY VENTURES,1174,AM GENERAL LLC,"[{'IsPrimary': False, 'Name': 'Multipurpose Passenger Vehicle (MPV)'}]",2025-10-13 01:27:07.653635
+UNITED STATES (USA),Q3,1175,O3 INDUSTRIES LLC,"[{'IsPrimary': False, 'Name': 'Trailer'}]",2025-10-13 01:27:07.653635
+UNITED STATES (USA),280 Trailers,1176,280 TRAILERS LLC,"[{'IsPrimary': True, 'Name': 'Trailer'}]",2025-10-13 01:27:07.653635
+UNITED STATES (USA),3D Custom Aluminum,1177,"3D CUSTOM ALUMINUM, LLC",[],2025-10-13 01:27:07.653635
+UNITED STATES (USA),,1178,3T MFG.,"[{'IsPrimary': False, 'Name': 'Trailer'}, {'IsPrimary': False, 'Name': 'Incomplete Vehicle'}]",2025-10-13 01:27:07.653635
+UNITED STATES (USA),58th Street Customs,1179,58TH STREET CUSTOMS,[],2025-10-13 01:27:07.653635
+CANADA,9013-7233 Quebec,1180,9013-7233 QUEBEC INC.,"[{'IsPrimary': False, 'Name': 'Trailer'}]",2025-10-13 01:27:07.653635
+UNITED STATES (USA),A&E Trailers,1181,A & E TRAILERS,[],2025-10-13 01:27:07.653635
+UNITED STATES (USA),A&M Fabrications,1182,A & M FABRICATIONS LLC,"[{'IsPrimary': False, 'Name': 'Trailer'}]",2025-10-13 01:27:07.653635
+UNITED STATES (USA),Tow Master,1183,"A-1 CUSTOM TRAILER MFG., INC. ","[{'IsPrimary': False, 'Name': 'Trailer'}]",2025-10-13 01:27:07.653635
+UNITED STATES (USA),A to Z Auto Sales,1184,A TO Z AUTO SALES,"[{'IsPrimary': False, 'Name': 'Trailer'}]",2025-10-13 01:27:07.653635
+UNITED STATES (USA),Magnum Choppers,1185,A UNIQUE CARS INC.,"[{'IsPrimary': True, 'Name': 'Motorcycle'}]",2025-10-13 01:27:07.653635
+UNITED STATES (USA),A&A Manufacturing,1186,A & A MANUFACTURING,"[{'IsPrimary': False, 'Name': 'Trailer'}]",2025-10-13 01:27:07.653635
+UNITED STATES (USA),A. N. Bowling Manufacturing,1187,"A. N. BOWLING, MFG.","[{'IsPrimary': True, 'Name': 'Trailer'}]",2025-10-13 01:27:07.653635
+UNITED STATES (USA),A. Q. Manufacturing,1188,A.Q. MANUFACTURING CORP.,"[{'IsPrimary': True, 'Name': 'Trailer'}]",2025-10-13 01:27:07.653635
+UNITED STATES (USA),ARM INC,1189,"A.R.M.(U.S.A.), INC.","[{'IsPrimary': True, 'Name': 'Trailer'}]",2025-10-13 01:27:07.653635
+UNITED STATES (USA),A1 Cycles,1191,A1 CYCLES INC.,"[{'IsPrimary': True, 'Name': 'Motorcycle'}]",2025-10-13 01:27:07.653635
+UNITED STATES (USA),A-BAR-D,1192,A-BAR-D MFG.,"[{'IsPrimary': False, 'Name': 'Trailer'}]",2025-10-13 01:27:07.653635
+UNITED STATES (USA),ABASTECEDORA DE TRACTOPARTES Y REFACCIONES,1193,ABASTECEDORA DE TRACTOPARTES Y REFACCIONES LLC,"[{'IsPrimary': False, 'Name': 'Trailer'}]",2025-10-13 01:27:07.653635
+UNITED STATES (USA),Ability Metals,1194,ABILITY METALS,"[{'IsPrimary': True, 'Name': 'Trailer'}]",2025-10-13 01:27:07.653635
+UNITED STATES (USA),Absolute Concepts,1195,ABSOLUTE CONCEPTS INC.,"[{'IsPrimary': True, 'Name': 'Trailer'}]",2025-10-13 01:27:07.653635
+CANADA,Matrixx Specialized Trailers,1196,2231545 ONTARIO INC. DBA MATRIXX SPECIALIZED TRAILERS,"[{'IsPrimary': True, 'Name': 'Trailer'}]",2025-10-13 01:27:07.653635
+UNITED STATES (USA),Crane Hills Machine & Fabrication,1198,"ROYALTY INVESTMENTS, LLC",[],2025-10-13 01:27:07.653635
+UNITED STATES (USA),Trailers,1199,COUNTRY TRAILERS LLC,"[{'IsPrimary': False, 'Name': 'Trailer'}]",2025-10-13 01:27:07.653635
+UNITED STATES (USA),Craneworks,1201,"CRANEWORKS, INC.","[{'IsPrimary': True, 'Name': 'Trailer'}]",2025-10-13 01:27:07.653635
+UNITED STATES (USA),Crary Agricultural,1202,"CRARY AGRICULTURAL SOLUTIONS, LLC","[{'IsPrimary': False, 'Name': 'Trailer'}]",2025-10-13 01:27:07.653635
+UNITED STATES (USA),Crazy Dago,1203,CRAZY DAGO CUSTOMS,"[{'IsPrimary': True, 'Name': 'Motorcycle'}]",2025-10-13 01:27:07.653635
+UNITED STATES (USA),Crazy Horse Iron,1204,"CRAZY HORSE IRON, LLC",[],2025-10-13 01:27:07.653635
+UNITED STATES (USA),CRC Cemetery,1205,CRC CEMETERY SERVICES INC.,"[{'IsPrimary': False, 'Name': 'Trailer'}]",2025-10-13 01:27:07.653635
+UNITED STATES (USA),Create-A-Custom Cycle,1206,CREATE-A-CUSTOM CYCLE LLC,"[{'IsPrimary': True, 'Name': 'Motorcycle'}]",2025-10-13 01:27:07.653635
+UNITED STATES (USA),,1207,"CREATIVE COACHWORKS, INC","[{'IsPrimary': False, 'Name': 'Multipurpose Passenger Vehicle (MPV)'}]",2025-10-13 01:27:07.653635
+UNITED STATES (USA),Creative Sports Supply,1208,CREATIVE SPORTS SUPPLY LLC,"[{'IsPrimary': True, 'Name': 'Trailer'}]",2025-10-13 01:27:07.653635
+UNITED STATES (USA),Creep Cycle,1209,CREEP CYCLE WORKS INC.,"[{'IsPrimary': True, 'Name': 'Motorcycle'}]",2025-10-13 01:27:07.653635
+UNITED STATES (USA),Country Wagon,1211,COUNTRY WAGON TRAILERS,[],2025-10-13 01:27:07.653635
+UNITED STATES (USA),Custom Choppers by Otis,1213,CUSTOM CHOPPERS BY OTIS,"[{'IsPrimary': True, 'Name': 'Motorcycle'}]",2025-10-13 01:27:07.653635
+UNITED STATES (USA),Custom Chopperwerks,1214,"CUSTOM CHOPPER WERKS, INC.","[{'IsPrimary': False, 'Name': 'Motorcycle'}]",2025-10-13 01:27:07.653635
+UNITED STATES (USA),Custom Components and Structures,1215,CUSTOM COMPONENTS AND STRUCTURES INC.,[],2025-10-13 01:27:07.653635
+UNITED STATES (USA),Custom Concessions,1216,CUSTOM CONCESSIONS TRAILERS,[],2025-10-13 01:27:07.653635
+UNITED STATES (USA),Custom Cut Fabrications,1217,CUSTOM CUT FABRICATION LLC,"[{'IsPrimary': True, 'Name': 'Trailer'}]",2025-10-13 01:27:07.653635
+UNITED STATES (USA),,1218,CUSTOM CYCLE STUDIO LLC,"[{'IsPrimary': False, 'Name': 'Motorcycle'}, {'IsPrimary': False, 'Name': 'Trailer'}]",2025-10-13 01:27:07.653635
+UNITED STATES (USA),C.D.M.,1219,CUSTOM DESIGN MANUFACTURING,"[{'IsPrimary': False, 'Name': 'Trailer'}]",2025-10-13 01:27:07.653635
+UNITED STATES (USA),Custom Design,1220,"CUSTOM DESIGN, INC.",[],2025-10-13 01:27:07.653635
+UNITED STATES (USA),Custom Engineered Products,1221,"CUSTOM ENGINEERED PRODUCTS, LLC",[],2025-10-13 01:27:07.653635
+UNITED STATES (USA),,1222,"CUSTOM EXPANSION FABRICATORS, INC.","[{'IsPrimary': True, 'Name': 'Trailer'}]",2025-10-13 01:27:07.653635
+UNITED STATES (USA),Custom Fabrication and Equipment,1223,CUSTOM FABRICATION AND EQUIPMENT,[],2025-10-13 01:27:07.653635
+UNITED STATES (USA),Custom Farm and Ranch Supply,1224,CUSTOM FARM AND RANCH SUPPLY,[],2025-10-13 01:27:07.653635
+UNITED STATES (USA),Custom Fire Apparatus,1225,"CUSTOM FIRE APPARATUS, INC.","[{'IsPrimary': True, 'Name': 'Trailer'}]",2025-10-13 01:27:07.653635
+UNITED STATES (USA),Custom Marine Components,1226,"CUSTOM MARINE COMPONENTS, INC.","[{'IsPrimary': True, 'Name': 'Trailer'}]",2025-10-13 01:27:07.653635
+UNITED STATES (USA),Custom Max,1227,CUSTOM MAX TRAILERS,[],2025-10-13 01:27:07.653635
+UNITED STATES (USA),Custom Mobile Designs,1228,CUSTOM MOBILE DESIGNS LLC,"[{'IsPrimary': True, 'Name': 'Trailer'}]",2025-10-13 01:27:07.653635
+UNITED STATES (USA),Custom Pits and Fabrication,1229,CUSTOM PITS AND FABRICATION LLC,"[{'IsPrimary': False, 'Name': 'Trailer'}]",2025-10-13 01:27:07.653635
+UNITED STATES (USA),Custom Services,1230,CUSTOM SERVICES,"[{'IsPrimary': True, 'Name': 'Motorcycle'}]",2025-10-13 01:27:07.653635
+UNITED STATES (USA),Cyclestream,1231,"CYCLESTREAM, LLC","[{'IsPrimary': True, 'Name': 'Trailer'}]",2025-10-13 01:27:07.653635
+UNITED STATES (USA),Cyclone Environmental,1232,"CYCLONE ENVIRONMENTAL TECHNOLOGIES, LLC",[],2025-10-13 01:27:07.653635
+UNITED STATES (USA),Cyclops Trike,1233,CYCLOPS TRIKE COMPONENTS,[],2025-10-13 01:27:07.653635
+UNITED STATES (USA),Countryside Welding,1234,COUNTRYSIDE WELDING,"[{'IsPrimary': False, 'Name': 'Trailer'}]",2025-10-13 01:27:07.653635
+UNITED STATES (USA),Cynergy Cargo,1235,CYNERGY CARGO LLC,"[{'IsPrimary': True, 'Name': 'Trailer'}]",2025-10-13 01:27:07.653635
+UNITED STATES (USA),R&D Baker Trailers,1236,R&D BAKER TRAILERS INC.,[],2025-10-13 01:27:07.653635
+UNITED STATES (USA),Cytec Trailers,1237,CYTEC TRAILERS,[],2025-10-13 01:27:07.653635
+UNITED STATES (USA),D and B,1238,D&B CYCLE PARTS & ACCESSORIES INC.,[],2025-10-13 01:27:07.653635
+UNITED STATES (USA),,1239,D & D TRAILERS & EQUIPMENT,"[{'IsPrimary': True, 'Name': 'Trailer'}]",2025-10-13 01:27:07.653635
+UNITED STATES (USA),D&M Marketing,1240,D & M MARKETING INC.,"[{'IsPrimary': True, 'Name': 'Trailer'}]",2025-10-13 01:27:07.653635
+UNITED STATES (USA),D&M Trailers,1241,D & M TRAILERS LLC,"[{'IsPrimary': True, 'Name': 'Trailer'}]",2025-10-13 01:27:07.653635
+UNITED STATES (USA),D&N Trailers,1242,D & N TRAILERS,"[{'IsPrimary': True, 'Name': 'Trailer'}]",2025-10-13 01:27:07.653635
+UNITED STATES (USA),D&P Welding,1243,D & P WELDING,"[{'IsPrimary': True, 'Name': 'Trailer'}]",2025-10-13 01:27:07.653635
+UNITED STATES (USA),,1244,MARKET DIRECT CAMPERS/MDC,"[{'IsPrimary': True, 'Name': 'Trailer'}]",2025-10-13 01:27:07.653635
+UNITED STATES (USA),D & D Repair and Fabrication,1245,D & D REPAIR AND FABRICATION,[],2025-10-13 01:27:07.653635
+UNITED STATES (USA),Count's Kustoms,1246,COUNT'S KUSTOMS,"[{'IsPrimary': False, 'Name': 'Motorcycle'}]",2025-10-13 01:27:07.653635
+UNITED STATES (USA),Copper River Fabricators,1247,"COPPER RIVER FABRICATORS, INC.","[{'IsPrimary': False, 'Name': 'Trailer'}]",2025-10-13 01:27:07.653635
+UNITED STATES (USA),Country Line,1248,COUNTY LINE CHOPPERS INC.`,[],2025-10-13 01:27:07.653635
+UNITED STATES (USA),Copperhead Trailers,1249,COPPERHEAD TRAILERS LLC,"[{'IsPrimary': True, 'Name': 'Trailer'}]",2025-10-13 01:27:07.653635
+UNITED STATES (USA),Coras Trailers,1250,"CORAS TRAILER MANUFACTURING, INC.","[{'IsPrimary': True, 'Name': 'Trailer'}]",2025-10-13 01:27:07.653635
+UNITED STATES (USA),Cross Country,1252,"CROSS COUNTRY MFG., INC.","[{'IsPrimary': True, 'Name': 'Trailer'}]",2025-10-13 01:27:07.653635
+UNITED STATES (USA),Westside Trailers,1253,CONVENTURE  LLC,[],2025-10-13 01:27:07.653635
+UNITED STATES (USA),,1254,"CORNELIUS MANUFACTURING, INC.","[{'IsPrimary': True, 'Name': 'Trailer'}]",2025-10-13 01:27:07.653635
+UNITED STATES (USA),American Made,1255,AMERICAN MADE,"[{'IsPrimary': True, 'Name': 'Motorcycle'}]",2025-10-13 01:27:07.653635
+UNITED STATES (USA),,1256,"AMERICAN MANUFACTURING OPERATIONS, INC.","[{'IsPrimary': True, 'Name': 'Trailer'}]",2025-10-13 01:27:07.653635
+UNITED STATES (USA),Cross Energy Solutions,1257,CROSS ENERGY SOLUTIONS LLC,[],2025-10-13 01:27:07.653635
+MEXICO,American Manufacturing Support,1258,AMERICAN MANUFACTURING SUPPORT DE MEXICO S.A. DE C.V.,"[{'IsPrimary': True, 'Name': 'Trailer'}]",2025-10-13 01:27:07.653635
+UNITED STATES (USA),American Metal Fabrications,1259,"AMERICAN METAL FABRICATION, INC.",[],2025-10-13 01:27:07.653635
+UNITED STATES (USA),Cornerstone Manufacturing,1260,"CORNERSTONE MANUFACTURING, LLC",[],2025-10-13 01:27:07.653635
+UNITED STATES (USA),American Motorcycle,1261,AMERICAN MOTORCYCLE CORPORATION,"[{'IsPrimary': True, 'Name': 'Motorcycle'}]",2025-10-13 01:27:07.653635
+UNITED STATES (USA),,1262,AMERICAN MOTORCYCLE SPECIALTY CENTER,[],2025-10-13 01:27:07.653635
+UNITED STATES (USA),,1264,CORRATTI CHOPPERS,[],2025-10-13 01:27:07.653635
+UNITED STATES (USA),,1265,"COTNER TRAILERS, INC","[{'IsPrimary': False, 'Name': 'Trailer'}]",2025-10-13 01:27:07.653635
+UNITED STATES (USA),,1267,COUNTRY PRIDE TRAILERS,[],2025-10-13 01:27:07.653635
+UNITED STATES (USA),,1268,D&D TRAILERS LLC,[],2025-10-13 01:27:07.653635
+UNITED STATES (USA),,1269,"D.G.C. TRAILER SALES, LLC","[{'IsPrimary': True, 'Name': 'Trailer'}]",2025-10-13 01:27:07.653635
+UNITED STATES (USA),,1270,"D.K. HOSTETLER, INC.",[],2025-10-13 01:27:07.653635
+UNITED STATES (USA),,1271,D.R.T,[],2025-10-13 01:27:07.653635
+UNITED STATES (USA),,1272,"DAIGLE BROTHERS, INC.",[],2025-10-13 01:27:07.653635
+UNITED STATES (USA),"TRAIL-EZE, INC.",1273,"TRAIL-EZE, INC","[{'IsPrimary': True, 'Name': 'Trailer'}]",2025-10-13 01:27:07.653635
+UNITED STATES (USA),,1274,DAKOTA MOTORCYCLE CO.,[],2025-10-13 01:27:07.653635
+UNITED STATES (USA),,1275,"COWBOY TRAILER SALES, INC.",[],2025-10-13 01:27:07.653635
+UNITED STATES (USA),,1276,DALLAS SMITH CORPORATION,"[{'IsPrimary': False, 'Name': 'Incomplete Vehicle'}]",2025-10-13 01:27:07.653635
+UNITED STATES (USA),North Jersey Cycle,1278,NORTH JERSEY CYCLE,[],2025-10-13 01:27:07.653635
+UNITED STATES (USA),,1279,COWBOYS KUSTOMS,[],2025-10-13 01:27:07.653635
+UNITED STATES (USA),Champion Trailer Works,1280,"CHAMPION TRAILER WORKS, INC","[{'IsPrimary': True, 'Name': 'Trailer'}]",2025-10-13 01:27:07.653635
+UNITED STATES (USA),CRESCENT MANUFACTURING,1281,"CRESCENT MANUFACTURING, INC.",[],2025-10-13 01:27:07.653635
+UNITED STATES (USA),American Performance Technologies,1282,"AMERICAN PERFORMANCE TECHNOLOGIES, LLC",[],2025-10-13 01:27:07.653635
+UNITED STATES (USA),,1284,"AMERICAN PISTON, LLC","[{'IsPrimary': True, 'Name': 'Motorcycle'}]",2025-10-13 01:27:07.653635
+UNITED STATES (USA),,1285,CRIMINAL CHOPPERS OF AZ,"[{'IsPrimary': True, 'Name': 'Motorcycle'}]",2025-10-13 01:27:07.653635
+UNITED STATES (USA),,1287,"CRAFTON EQUIPMENT, INC.","[{'IsPrimary': False, 'Name': 'Trailer'}]",2025-10-13 01:27:07.653635
+UNITED STATES (USA),,1288,"AMERICAN PRODUCTS, LLC",[],2025-10-13 01:27:07.653635
+UNITED STATES (USA),,1289,COYNE OIL CORPORATION,[],2025-10-13 01:27:07.653635
+UNITED STATES (USA),CRONKHITE,1290,"CRONKHITE INDUSTRIES, INC.","[{'IsPrimary': True, 'Name': 'Trailer'}]",2025-10-13 01:27:07.653635
+UNITED STATES (USA),,1291,AMERICAN RECREATIONAL VEHICLES,[],2025-10-13 01:27:07.653635
+UNITED STATES (USA),,1292,AMERICAN SCOOTER MANUFACTURING,[],2025-10-13 01:27:07.653635
+UNITED STATES (USA),,1293,AMERICAN SPORT TRAILER COMPANY LLC,[],2025-10-13 01:27:07.653635
+UNITED STATES (USA),Crooked River Choppers,1294,CROOKED RIVER CHOPPERS INC.,"[{'IsPrimary': False, 'Name': 'Motorcycle'}]",2025-10-13 01:27:07.653635
+UNITED STATES (USA),Coyote,1296,COYOTE MFG CO,"[{'IsPrimary': True, 'Name': 'Trailer'}]",2025-10-13 01:27:07.653635
+UNITED STATES (USA),Crop Master Trailers,1297,CROP MASTER TRAILERS INC.,"[{'IsPrimary': True, 'Name': 'Trailer'}]",2025-10-13 01:27:07.653635
+UNITED STATES (USA),,1298,"CROSS CLEANING SOLUTIONS, LLC","[{'IsPrimary': False, 'Name': 'Trailer'}]",2025-10-13 01:27:07.653635
+UNITED STATES (USA),,1299,LUCAS CYCLES,"[{'IsPrimary': False, 'Name': 'Motorcycle'}]",2025-10-13 01:27:07.653635
+UNITED STATES (USA),,1300,DARWIN MOTORCYCLE LLC,"[{'IsPrimary': False, 'Name': 'Motorcycle'}]",2025-10-13 01:27:07.653635
+UNITED STATES (USA),,1302,TIM NOBLES TRAILERS AND REPAIR LLC,"[{'IsPrimary': False, 'Name': 'Trailer'}]",2025-10-13 01:27:07.653635
+CANADA,,1303,IRONTECH RIG REPAIR & MANUFACTURES INC.,"[{'IsPrimary': False, 'Name': 'Trailer'}]",2025-10-13 01:27:07.653635
+UNITED STATES (USA),,1304,BELL CUSTOM PRODUCTS,"[{'IsPrimary': True, 'Name': 'Trailer'}]",2025-10-13 01:27:07.653635
+UNITED STATES (USA),,1305,"TOP NOTCH TRAILER MANUFACTURING, INC.","[{'IsPrimary': True, 'Name': 'Trailer'}]",2025-10-13 01:27:07.653635
+UNITED STATES (USA),,1306,"ACME TRUCK PARTS AND EQUIPMENT, INC.","[{'IsPrimary': False, 'Name': 'Truck'}, {'IsPrimary': True, 'Name': 'Trailer'}]",2025-10-13 01:27:07.653635
+UNITED STATES (USA),,1307,MILLCREEK EQUIPMENT CO. INC. ,"[{'IsPrimary': False, 'Name': 'Truck'}, {'IsPrimary': False, 'Name': 'Trailer'}, {'IsPrimary': False, 'Name': 'Incomplete Vehicle'}]",2025-10-13 01:27:07.653635
+UNITED STATES (USA),,1308,CSC MOTORCYCLES INC.,"[{'IsPrimary': False, 'Name': 'Motorcycle'}]",2025-10-13 01:27:07.653635
+UNITED STATES (USA),,1309,"PATRIOT ENERGY SERVICES, LLC",[],2025-10-13 01:27:07.653635
+UNITED STATES (USA),,1310,"JOMAR MACHINING & FABRICATING, INC.","[{'IsPrimary': True, 'Name': 'Trailer'}]",2025-10-13 01:27:07.653635
+UNITED STATES (USA),,1311,"VORTEX TRUCK AND EQUIPMENT, INC.","[{'IsPrimary': True, 'Name': 'Truck'}]",2025-10-13 01:27:07.653635
+UNITED STATES (USA),,1312,"CHINA OFF-ROAD PRODUCTS, INC.","[{'IsPrimary': True, 'Name': 'Trailer'}]",2025-10-13 01:27:07.653635
+UNITED STATES (USA),,1313,"FAT DADDY RACING, L.C. ","[{'IsPrimary': True, 'Name': 'Trailer'}]",2025-10-13 01:27:07.653635
+UNITED STATES (USA),,1314,GLAVAL BUS - DIVISION OF FOREST RIVER INC.,"[{'IsPrimary': True, 'Name': 'Bus'}]",2025-10-13 01:27:07.653635
+UNITED STATES (USA),,1315,"SURFACE PREPARATION TECHNOLOGIES, LLC","[{'IsPrimary': True, 'Name': 'Truck'}, {'IsPrimary': False, 'Name': 'Trailer'}]",2025-10-13 01:27:07.653635
+UNITED STATES (USA),,1316,HILLCREST MANUFACTURING LLC,[],2025-10-13 01:27:07.653635
+UNITED STATES (USA),,1317,L&M TRUCK SALES INC.,"[{'IsPrimary': False, 'Name': 'Truck'}]",2025-10-13 01:27:07.653635
+UNITED STATES (USA),,1318,AFFORDABLE TRAILERS,"[{'IsPrimary': True, 'Name': 'Trailer'}]",2025-10-13 01:27:07.653635
+UNITED STATES (USA),,1319,NORTH COAST TRUCK BODY LLC,[],2025-10-13 01:27:07.653635
+CHINA,,1321,DRIVE CRAFT AND TECHNOLOGY INC.,[],2025-10-13 01:27:07.653635
+CHINA,,1322,"WENZHOU LONGDA AUTOMOBILE & MOTORCYCLE PARTS CO., LTD",[],2025-10-13 01:27:07.653635
+UNITED STATES (USA),CHRYSLER,1323,CHRYSLER LLC,"[{'IsPrimary': True, 'Name': 'Passenger Car'}, {'IsPrimary': False, 'Name': 'Truck'}, {'IsPrimary': False, 'Name': 'Bus'}, {'IsPrimary': False, 'Name': 'Multipurpose Passenger Vehicle (MPV)'}, {'IsPrimary': False, 'Name': 'Low Speed Vehicle (LSV)'}]",2025-10-13 01:27:07.653635
+UNITED STATES (USA),,1324,QUALITY REBUILT AUTOS & MANUFACTURING LLC,"[{'IsPrimary': True, 'Name': 'Trailer'}]",2025-10-13 01:27:07.653635
+UNITED STATES (USA),,1325,"PORTEON ELECTRIC VEHICLES, INC.","[{'IsPrimary': True, 'Name': 'Motorcycle'}, {'IsPrimary': False, 'Name': 'Multipurpose Passenger Vehicle (MPV)'}]",2025-10-13 01:27:07.653635
+UNITED STATES (USA),,1326,"ABACOR, INC.","[{'IsPrimary': True, 'Name': 'Truck'}]",2025-10-13 01:27:07.653635
+CHINA,,1327,"SHANGHAI HUIZHONG AUTOMOTIVE MANUFACTURING CO., LTD","[{'IsPrimary': True, 'Name': 'Trailer'}]",2025-10-13 01:27:07.653635
+UNITED STATES (USA),,1328,GLOBAL WHEEL SOLUTIONS,[],2025-10-13 01:27:07.653635
+HONG KONG,,1330,CHINA WHEEL (HK) COMPANY LIMITED,[],2025-10-13 01:27:07.653635
+CHINA,,1331,CHINA WHEEL (TAI'AN) ALUMINIUM PRODUCTS COMPANY LIMITED,[],2025-10-13 01:27:07.653635
+CHINA,,1332,JIANGMEN CHINA WHEEL ALUMINUM WHEEL COMPANY LIMITED,[],2025-10-13 01:27:07.653635
+CHINA,,1333,CHINA WHEEL ALUMINUM WHEEL (TAI'AN) COMPANY LIMITED,[],2025-10-13 01:27:07.653635
+HONG KONG,,1334,TJ AUTOMOBILE WHEEL COMPANY LIMITED,[],2025-10-13 01:27:07.653635
+UNITED STATES (USA),,1335,"WYOMING FABRICATION & MACHINE, LLC","[{'IsPrimary': True, 'Name': 'Trailer'}]",2025-10-13 01:27:07.653635
+CHINA,,1336,"LIANYUNGANG UNIVERSAL SPECIAL PURPOSE VEHICLE MANUFACTURING CO., LTD.","[{'IsPrimary': True, 'Name': 'Trailer'}]",2025-10-13 01:27:07.653635
+UNITED STATES (USA),,1338,"W.A. JONES & SON, INC.",[],2025-10-13 01:27:07.653635
+UNITED STATES (USA),,1341,TMP TRUCK & TRAILER,"[{'IsPrimary': False, 'Name': 'Trailer'}]",2025-10-13 01:27:07.653635
+UNITED STATES (USA),,1342,TOW PRO LLC,[],2025-10-13 01:27:07.653635
+SWEDEN,Koenigsegg,1344,KOENIGSEGG AUTOMOTIVE AB,"[{'IsPrimary': False, 'Name': 'Passenger Car'}]",2025-10-13 01:27:07.653635
+POLAND,,1345,VECTRIX SP. Z O.O.,"[{'IsPrimary': True, 'Name': 'Motorcycle'}]",2025-10-13 01:27:07.653635
+UNITED STATES (USA),,1346,JONES BODY COMPANY,"[{'IsPrimary': True, 'Name': 'Truck'}]",2025-10-13 01:27:07.653635
+UNITED STATES (USA),,1347,"DYMAC VEHICLE GROUP, INC.","[{'IsPrimary': True, 'Name': 'Low Speed Vehicle (LSV)'}]",2025-10-13 01:27:07.653635
+UNITED STATES (USA),,1348,"CM&W, LLC","[{'IsPrimary': True, 'Name': 'Trailer'}]",2025-10-13 01:27:07.653635
+UNITED STATES (USA),,1349,"MXROS, INC. ","[{'IsPrimary': True, 'Name': 'Trailer'}]",2025-10-13 01:27:07.653635
+CANADA,,1350,LINETECH DESIGN & MFG. LTD.,"[{'IsPrimary': True, 'Name': 'Truck'}]",2025-10-13 01:27:07.653635
+UNITED STATES (USA),,1351,MID SOUTH DISTRIBUTION SERVICES,"[{'IsPrimary': True, 'Name': 'Trailer'}]",2025-10-13 01:27:07.653635
+UNITED STATES (USA),,1352,IMPACT HYDRAULIC,"[{'IsPrimary': True, 'Name': 'Trailer'}]",2025-10-13 01:27:07.653635
+CHINA,,1353,JIANGMEN PENGCHENG HELMETS LTD.,[],2025-10-13 01:27:07.653635
+UNITED STATES (USA),,1354,"MERRITT MANUFACTURING, INC.",[],2025-10-13 01:27:07.653635
+CHINA,,1355,"SANY HEAVY INDUSTRY CO., LTD","[{'IsPrimary': True, 'Name': 'Trailer'}]",2025-10-13 01:27:07.653635
+UNITED STATES (USA),,1356,LIMOS BY MOONLIGHT,"[{'IsPrimary': True, 'Name': 'Passenger Car'}, {'IsPrimary': False, 'Name': 'Truck'}, {'IsPrimary': False, 'Name': 'Bus'}, {'IsPrimary': False, 'Name': 'Multipurpose Passenger Vehicle (MPV)'}]",2025-10-13 01:27:07.653635
+UNITED STATES (USA),,1357,RAW INTERNATIONAL LLC,[],2025-10-13 01:27:07.653635
+UNITED STATES (USA),,1358,ADSCO CORPORATION,"[{'IsPrimary': True, 'Name': 'Truck'}]",2025-10-13 01:27:07.653635
+UNITED STATES (USA),,1359,"KEIZER MORRIS INTERNATIONAL, INC. DBA KM INTERNATIONAL","[{'IsPrimary': True, 'Name': 'Trailer'}]",2025-10-13 01:27:07.653635
+UNITED STATES (USA),,1360,"MENARD MANUFACTURING COMPANY, INC.",[],2025-10-13 01:27:07.653635
+UNITED STATES (USA),,1361,LIBERATOR TRIKES LLC,"[{'IsPrimary': True, 'Name': 'Motorcycle'}]",2025-10-13 01:27:07.653635
+UNITED STATES (USA),,1362,BLACKWATER TARGET SYSTEMS,[],2025-10-13 01:27:07.653635
+UNITED STATES (USA),,1363,BITTER END - OLD SCHOOL CHOPPERS,"[{'IsPrimary': True, 'Name': 'Motorcycle'}]",2025-10-13 01:27:07.653635
+UNITED STATES (USA),,1364,SILVER EAGLE MANUFACTURING,"[{'IsPrimary': True, 'Name': 'Trailer'}]",2025-10-13 01:27:07.653635
+UNITED STATES (USA),,1365,MATTHEWS SPECIALTY VEHICLES INC,"[{'IsPrimary': True, 'Name': 'Truck'}, {'IsPrimary': False, 'Name': 'Bus'}]",2025-10-13 01:27:07.653635
+UNITED STATES (USA),,1366,"AG-QUIP, INC.","[{'IsPrimary': True, 'Name': 'Trailer'}]",2025-10-13 01:27:07.653635
+UNITED STATES (USA),,1367,"L & J MANUFACTURING, LLC",[],2025-10-13 01:27:07.653635
+UNITED STATES (USA),,1368,WILBAR TRUCK EQUIPMENT INC.,"[{'IsPrimary': True, 'Name': 'Truck'}]",2025-10-13 01:27:07.653635
+UNITED STATES (USA),,1369,WILCO MACHINE & FAB INC.,[],2025-10-13 01:27:07.653635
+UNITED STATES (USA),,1370,"WILCO, INC.",[],2025-10-13 01:27:07.653635
+UNITED STATES (USA),,1371,WILD CHILD PERFORMANCE,[],2025-10-13 01:27:07.653635
+UNITED STATES (USA),,1372,WILD RICE INDUSTRIES,[],2025-10-13 01:27:07.653635
+UNITED STATES (USA),,1373,WILD SIDE CUSTOM TRAILERS & TRUCK CONVERSIONS,[],2025-10-13 01:27:07.653635
+UNITED STATES (USA),,1374,"WILDCAT MFG. CO., INCORPORATED","[{'IsPrimary': True, 'Name': 'Trailer'}]",2025-10-13 01:27:07.653635
+UNITED STATES (USA),,1376,WILDFIRE WILLIAM KASBOHM,[],2025-10-13 01:27:07.653635
+UNITED STATES (USA),,1379,WILKENS MANUFACTURING,"[{'IsPrimary': True, 'Name': 'Trailer'}]",2025-10-13 01:27:07.653635
+UNITED STATES (USA),,1380,"WILKES-BARRE TRUCK CENTER, INC.",[],2025-10-13 01:27:07.653635
+UNITED STATES (USA),,1381,"WILKINS MOTORS, INC.",[],2025-10-13 01:27:07.653635
+UNITED STATES (USA),,1382,WILKINS SERVICE STATION,[],2025-10-13 01:27:07.653635
+UNITED STATES (USA),,1384,WILLIAM & HARVEY ROWLAND OF GA INC.,[],2025-10-13 01:27:07.653635
+UNITED STATES (USA),,1385,WOODSMAN INC.,[],2025-10-13 01:27:07.653635
+UNITED STATES (USA),,1386,WOODWORTH MFG,[],2025-10-13 01:27:07.653635
+UNITED STATES (USA),,1388,"WORCESTER TANK & EQUIPMENT CO., INC",[],2025-10-13 01:27:07.653635
+UNITED STATES (USA),,1389,"WORCESTER WHITE AUTOCAR, INC.",[],2025-10-13 01:27:07.653635
+UNITED STATES (USA),,1390,"WORKBENCH, INC.","[{'IsPrimary': False, 'Name': 'Trailer'}]",2025-10-13 01:27:07.653635
+UNITED STATES (USA),,1391,"U-SCREEN U.S.A., INC.","[{'IsPrimary': False, 'Name': 'Trailer'}]",2025-10-13 01:27:07.653635
+UNITED STATES (USA),,1392,"L AND T MANUFACTURING, LLC","[{'IsPrimary': True, 'Name': 'Trailer'}]",2025-10-13 01:27:07.653635
+UNITED STATES (USA),,1393,DAUNTLESS MOTORS CORPORATION,"[{'IsPrimary': True, 'Name': 'Trailer'}]",2025-10-13 01:27:07.653635
+UNITED STATES (USA),,1394,"RAPSURE CONCESSION TRAILERS, INC.","[{'IsPrimary': True, 'Name': 'Trailer'}]",2025-10-13 01:27:07.653635
+UNITED STATES (USA),Shadow,1395,"SHADOW TRAILERS, LLC","[{'IsPrimary': True, 'Name': 'Trailer'}]",2025-10-13 01:27:07.653635
+UNITED STATES (USA),,1396,HEISLER BOATS,[],2025-10-13 01:27:07.653635
+UNITED STATES (USA),,1397,"INDUSTRIAL TRAILER MANUFACTURING, INC.",[],2025-10-13 01:27:07.653635
+UNITED STATES (USA),,1398,CUSTOM TRAILER WORKS LLC,[],2025-10-13 01:27:07.653635
+UNITED STATES (USA),,1399,"THULE TRAILERS, INC.",[],2025-10-13 01:27:07.653635
+UNITED STATES (USA),,1400,ASPHALT EQUIPMENT & SERVICE CO.,[],2025-10-13 01:27:07.653635
+UNITED STATES (USA),,1401,POWERSECURE INC.,[],2025-10-13 01:27:07.653635
+UNITED STATES (USA),,1402,"E. T. & T. ENTERPRISES DBA HOLLAND METAL FAB., INC","[{'IsPrimary': False, 'Name': 'Trailer'}]",2025-10-13 01:27:07.653635
+UNITED STATES (USA),,1403,SPENCER BOWMAN CUSTOMS,[],2025-10-13 01:27:07.653635
+UNITED STATES (USA),,1404,JMR MANUFACTURING LLC,"[{'IsPrimary': False, 'Name': 'Trailer'}]",2025-10-13 01:27:07.653635
+UNITED STATES (USA),,1405,D'S FIBERGLASS,"[{'IsPrimary': True, 'Name': 'Trailer'}]",2025-10-13 01:27:07.653635
+UNITED STATES (USA),,1406,"CHRISTIANSON SYSTEMS, INC.",[],2025-10-13 01:27:07.653635
+CANADA,,1407,CONVEY-ALL INDUSTRIES INC.,"[{'IsPrimary': True, 'Name': 'Trailer'}]",2025-10-13 01:27:07.653635
+UNITED STATES (USA),,1408,"CENTENNIAL WELDING, INC.",[],2025-10-13 01:27:07.653635
+UNITED STATES (USA),,1409,COAST 2 COAST CHOPPERS,"[{'IsPrimary': True, 'Name': 'Motorcycle'}]",2025-10-13 01:27:07.653635
+CANADA,,1410,SIGNALISATION VER-MAC INC.,"[{'IsPrimary': False, 'Name': 'Trailer'}]",2025-10-13 01:27:07.653635
+UNITED STATES (USA),,1411,EIGHT MILE CHOPPERS,"[{'IsPrimary': False, 'Name': 'Motorcycle'}]",2025-10-13 01:27:07.653635
+UNITED STATES (USA),,1412,"OUTKAST KUSTOM CYCLES, INC.",[],2025-10-13 01:27:07.653635
+UNITED STATES (USA),,1413,EAGLE TRAILERS MFG,"[{'IsPrimary': False, 'Name': 'Trailer'}]",2025-10-13 01:27:07.653635
+UNITED STATES (USA),,1414,"BRIDGEVILLE TRAILERS, INC.","[{'IsPrimary': True, 'Name': 'Trailer'}]",2025-10-13 01:27:07.653635
+UNITED STATES (USA),,1415,MOTORCYCLE MACHINE SHOP SERVICES LLC,[],2025-10-13 01:27:07.653635
+UNITED STATES (USA),,1416,CHOPPER DESIGNS,[],2025-10-13 01:27:07.653635
+UNITED STATES (USA),,1417,AMERICAN TRAILERS,[],2025-10-13 01:27:07.653635
+UNITED STATES (USA),,1418,K.C. METAL WORKS LLC.,"[{'IsPrimary': True, 'Name': 'Trailer'}]",2025-10-13 01:27:07.653635
+UNITED STATES (USA),,1419,MESKE WELDING LLC,[],2025-10-13 01:27:07.653635
+UNITED STATES (USA),,1420,GABRIEL VILLESCAS WEST MESA CHOPPERS,"[{'IsPrimary': True, 'Name': 'Motorcycle'}]",2025-10-13 01:27:07.653635
+UNITED STATES (USA),,1421,COWBOY TRADING COMPANY INC. AKA COWBOY CUSTOM CHOP,[],2025-10-13 01:27:07.653635
+UNITED STATES (USA),,1422,"BLUE HEN, LLC",[],2025-10-13 01:27:07.653635
+UNITED STATES (USA),,1423,TDS DISPOSAL SERVICES LLC,[],2025-10-13 01:27:07.653635
+UNITED STATES (USA),,1424,"JRW TRAILERS, INC.","[{'IsPrimary': False, 'Name': 'Trailer'}]",2025-10-13 01:27:07.653635
+UNITED STATES (USA),,1425,"TARGET TRAILER MFG., CO.","[{'IsPrimary': False, 'Name': 'Trailer'}]",2025-10-13 01:27:07.653635
+UNITED STATES (USA),,1426,"BROWN WELDING SHOP, INC.",[],2025-10-13 01:27:07.653635
+UNITED STATES (USA),,1427,"TIGER TRUCK, LLC AKA TIGER TRUCK MANUFACTURING, LL",[],2025-10-13 01:27:07.653635
+UNITED STATES (USA),,1428,WELD-TEK CUSTOM FABRICATION,"[{'IsPrimary': True, 'Name': 'Trailer'}]",2025-10-13 01:27:07.653635
+UNITED STATES (USA),,1429,AMERICAN NATIONAL FLEET SERVICE INC. DBA AMERICAN FLEET SERVICES,"[{'IsPrimary': False, 'Name': 'Truck'}]",2025-10-13 01:27:07.653635
+UNITED STATES (USA),,1430,PAFCO TRUCK BODIES,"[{'IsPrimary': False, 'Name': 'Truck'}]",2025-10-13 01:27:07.653635
+UNITED STATES (USA),,1433,"BG AUTOMOTIVE GROUP, LTD.","[{'IsPrimary': True, 'Name': 'Low Speed Vehicle (LSV)'}]",2025-10-13 01:27:07.653635
+UNITED STATES (USA),,1434,BLING'S CYCLES,"[{'IsPrimary': True, 'Name': 'Motorcycle'}]",2025-10-13 01:27:07.653635
+UNITED STATES (USA),,1435,TEUTONIA USA LLC,[],2025-10-13 01:27:07.653635
+UNITED STATES (USA),,1436,WISDOM RIDES,"[{'IsPrimary': True, 'Name': 'Trailer'}]",2025-10-13 01:27:07.653635
+UNITED STATES (USA),,1438,"S & B TRAILERS, INC","[{'IsPrimary': True, 'Name': 'Trailer'}]",2025-10-13 01:27:07.653635
+UNITED STATES (USA),,1439,"MINIMOVER, LLC","[{'IsPrimary': False, 'Name': 'Low Speed Vehicle (LSV)'}]",2025-10-13 01:27:07.653635
+UNITED STATES (USA),,1440,"BOULDER ELECTRORIDE, INC.","[{'IsPrimary': False, 'Name': 'Motorcycle'}]",2025-10-13 01:27:07.653635
+UNITED STATES (USA),,1441,"CREST CHEVROLET, INC.","[{'IsPrimary': False, 'Name': 'Truck'}, {'IsPrimary': False, 'Name': 'Bus'}]",2025-10-13 01:27:07.653635
+UNITED STATES (USA),,1442,"UNITED SERVICE ALLIANCE, INC.","[{'IsPrimary': False, 'Name': 'Trailer'}]",2025-10-13 01:27:07.653635
+UNITED STATES (USA),,1443,"WELL DONE EQUIPMENT, LLC","[{'IsPrimary': False, 'Name': 'Trailer'}]",2025-10-13 01:27:07.653635
+UNITED STATES (USA),,1444,J&M MFG. CO. INC.,"[{'IsPrimary': False, 'Name': 'Trailer'}]",2025-10-13 01:27:07.653635
+UNITED STATES (USA),,1445,"VT HACKNEY , INC.","[{'IsPrimary': False, 'Name': 'Truck'}, {'IsPrimary': False, 'Name': 'Trailer'}]",2025-10-13 01:27:07.653635
+UNITED STATES (USA),,1446,RWN CONTRACTORS,"[{'IsPrimary': True, 'Name': 'Trailer'}]",2025-10-13 01:27:07.653635
+UNITED STATES (USA),,1447,"TRANSFORMATRUCKS, LLC","[{'IsPrimary': False, 'Name': 'Trailer'}]",2025-10-13 01:27:07.653635
+UNITED STATES (USA),,1448,"OHIO STEEL INDUSTRIES, INC.","[{'IsPrimary': True, 'Name': 'Trailer'}]",2025-10-13 01:27:07.653635
+UNITED STATES (USA),,1449,CENTURY TANK & TRAILER,"[{'IsPrimary': True, 'Name': 'Trailer'}]",2025-10-13 01:27:07.653635
+UNITED STATES (USA),,1450,"EMK, LLC","[{'IsPrimary': True, 'Name': 'Trailer'}]",2025-10-13 01:27:07.653635
+UNITED STATES (USA),,1451,TOTAL TRUCK & TRAILER,"[{'IsPrimary': False, 'Name': 'Truck'}, {'IsPrimary': False, 'Name': 'Trailer'}, {'IsPrimary': True, 'Name': 'Multipurpose Passenger Vehicle (MPV)'}]",2025-10-13 01:27:07.653635
+UNITED STATES (USA),,1452,SCEADU DESIGN,"[{'IsPrimary': True, 'Name': 'Motorcycle'}]",2025-10-13 01:27:07.653635
+UNITED STATES (USA),,1453,"VAPORCON, LLC","[{'IsPrimary': True, 'Name': 'Trailer'}]",2025-10-13 01:27:07.653635
+UNITED STATES (USA),,1454,METAL MANSIONS,"[{'IsPrimary': True, 'Name': 'Trailer'}]",2025-10-13 01:27:07.653635
+UNITED STATES (USA),,1455,"P.D.Q. METAL FABRICATION, INC.","[{'IsPrimary': True, 'Name': 'Trailer'}]",2025-10-13 01:27:07.653635
+UNITED STATES (USA),,1456,"KEYSTONE OILFIELD FABRICATION, LLC","[{'IsPrimary': True, 'Name': 'Trailer'}]",2025-10-13 01:27:07.653635
+UNITED STATES (USA),,1457,GRAND ISLAND MANUFACTURING,"[{'IsPrimary': True, 'Name': 'Trailer'}]",2025-10-13 01:27:07.653635
+UNITED STATES (USA),,1458,WALTERS GROUP INC.,"[{'IsPrimary': True, 'Name': 'Trailer'}]",2025-10-13 01:27:07.653635
+UNITED STATES (USA),,1460,"MISSION TRUCK EQUIPMENT, LLC.","[{'IsPrimary': True, 'Name': 'Truck'}, {'IsPrimary': False, 'Name': 'Incomplete Vehicle'}]",2025-10-13 01:27:07.653635
+UNITED STATES (USA),,1462,"ROOSTER CUSTOM CYCLES, INC.","[{'IsPrimary': True, 'Name': 'Motorcycle'}]",2025-10-13 01:27:07.653635
+UNITED STATES (USA),,1463,GREAT PLAINS FABRICATION LLC,[],2025-10-13 01:27:07.653635
+UNITED STATES (USA),,1464,"SPECTOR MANUFACTURING, INC.",[],2025-10-13 01:27:07.653635
+UNITED STATES (USA),,1465,TRAILERWELDSHOP,"[{'IsPrimary': False, 'Name': 'Trailer'}]",2025-10-13 01:27:07.653635
+UNITED STATES (USA),,1466,DUESWAY INC.,"[{'IsPrimary': True, 'Name': 'Trailer'}]",2025-10-13 01:27:07.653635
+UNITED STATES (USA),,1467,"LOAD PRO TRAILERS, INC.",[],2025-10-13 01:27:07.653635
+UNITED STATES (USA),,1468,HELL-BENT CUSTOM CYCLES,[],2025-10-13 01:27:07.653635
+UNITED STATES (USA),,1469,"V. MARONE ENTERPRISES, INC.",[],2025-10-13 01:27:07.653635
+UNITED STATES (USA),,1470,DAVIS METAL WORKS,"[{'IsPrimary': True, 'Name': 'Trailer'}]",2025-10-13 01:27:07.653635
+CHINA,,1471,"CHONGQING RATO POWER CO., LTD.","[{'IsPrimary': False, 'Name': 'Motorcycle'}]",2025-10-13 01:27:07.653635
+UNITED STATES (USA),,1472,EYEBALL ENG.,"[{'IsPrimary': True, 'Name': 'Motorcycle'}]",2025-10-13 01:27:07.653635
+UNITED STATES (USA),,1473,"RILEEY FORESTRY EQUIPMENT, LLC",[],2025-10-13 01:27:07.653635
+UNITED STATES (USA),,1474,EXTREME ROAD & TRAIL,[],2025-10-13 01:27:07.653635
+UNITED STATES (USA),,1475,HANSON MANUFACTURING INC.,[],2025-10-13 01:27:07.653635
+UNITED STATES (USA),,1476,TAYLOR-DUNN MANUFACTURING,[],2025-10-13 01:27:07.653635
+UNITED STATES (USA),,1477,IDENTITY MOTORS MANUFACTURING & ASSEMBLY,"[{'IsPrimary': True, 'Name': 'Motorcycle'}]",2025-10-13 01:27:07.653635
+UNITED STATES (USA),Chrysler,1478,"CHRYSLER GROUP LLC(USA),CHRYSLER CANADA, CHRYSLER DE MEXICO",[],2025-10-13 01:27:07.653635
+ITALY,,1479,TAZZARI GL SPA,"[{'IsPrimary': True, 'Name': 'Low Speed Vehicle (LSV)'}]",2025-10-13 01:27:07.653635
+CHINA,,1480,CHANGZHOU CITY WENMING VEHICLE ACCESSORIES FACTORY ,[],2025-10-13 01:27:07.653635
+UNITED STATES (USA),,1481,"SALSCO, INC.","[{'IsPrimary': True, 'Name': 'Trailer'}]",2025-10-13 01:27:07.653635
+UNITED STATES (USA),,1482,"LIFT N LOCK, LLC",[],2025-10-13 01:27:07.653635
+UNITED STATES (USA),,1483,"CONTINENTAL BIOMASS INDUSTRIES, INC.",[],2025-10-13 01:27:07.653635
+UNITED STATES (USA),,1484,BADLANDS STEEL WORX,[],2025-10-13 01:27:07.653635
+UNITED STATES (USA),,1485,"PADDLE KING, INC.",[],2025-10-13 01:27:07.653635
+UNITED STATES (USA),,1486,"PALMER INDUSTRIES, INC.","[{'IsPrimary': True, 'Name': 'Motorcycle'}]",2025-10-13 01:27:07.653635
+UNITED STATES (USA),,1487,ZTPOWERSTATION LLC,[],2025-10-13 01:27:07.653635
+UNITED STATES (USA),,1488,FEMCO,[],2025-10-13 01:27:07.653635
+UNITED STATES (USA),,1489,PACE AMERICAN OF GEORGIA INC.,[],2025-10-13 01:27:07.653635
+UNITED STATES (USA),,1490,PACE AMERICAN OF TEXAS INC.,[],2025-10-13 01:27:07.653635
+UNITED STATES (USA),,1491,PACE AMERICAN OF UTAH INC.,[],2025-10-13 01:27:07.653635
+UNITED STATES (USA),,1492,INTECH TRAILERS INC.,"[{'IsPrimary': True, 'Name': 'Trailer'}]",2025-10-13 01:27:07.653635
+UNITED STATES (USA),,1493,"BOYLAN SALES, INC. DBA BOYLAN GOLF CARS","[{'IsPrimary': False, 'Name': 'Low Speed Vehicle (LSV)'}]",2025-10-13 01:27:07.653635
+UNITED STATES (USA),,1494,C & B MANUFACTURING,"[{'IsPrimary': False, 'Name': 'Trailer'}]",2025-10-13 01:27:07.653635
+UNITED STATES (USA),,1496,GLOBAL TRUCK & TRAILER SALES,"[{'IsPrimary': False, 'Name': 'Trailer'}]",2025-10-13 01:27:07.653635
+UNITED STATES (USA),,1497,MRR CYCLES LLC,"[{'IsPrimary': False, 'Name': 'Motorcycle'}]",2025-10-13 01:27:07.653635
+UNITED STATES (USA),,1498,"LAGOON MANUFACTURING, LLC","[{'IsPrimary': False, 'Name': 'Trailer'}]",2025-10-13 01:27:07.653635
+UNITED STATES (USA),,1499,WYATT ENGINEERING & FABRICATION LLC,"[{'IsPrimary': False, 'Name': 'Trailer'}]",2025-10-13 01:27:07.653635
+UNITED STATES (USA),Tanom,1500,TANOM MOTORS LLC,"[{'IsPrimary': True, 'Name': 'Motorcycle'}]",2025-10-13 01:27:07.653635
+UNITED STATES (USA),,1501,"LPD TRAILERS, LLC","[{'IsPrimary': False, 'Name': 'Trailer'}]",2025-10-13 01:27:07.653635
+UNITED STATES (USA),,1502,"WWL VEHICLE SERVICES AMERICAS, INC.","[{'IsPrimary': False, 'Name': 'Passenger Car'}, {'IsPrimary': False, 'Name': 'Truck'}, {'IsPrimary': False, 'Name': 'Multipurpose Passenger Vehicle (MPV)'}]",2025-10-13 01:27:07.653635
+UNITED STATES (USA),,1503,"GLOBAL INVENTIVE INDUSTRIES, INC.","[{'IsPrimary': False, 'Name': 'Trailer'}]",2025-10-13 01:27:07.653635
+UNITED STATES (USA),,1504,TEAMCO INC.,"[{'IsPrimary': False, 'Name': 'Truck'}]",2025-10-13 01:27:07.653635
+UNITED STATES (USA),,1505,THE DOCK DOCTORS LLC,"[{'IsPrimary': False, 'Name': 'Trailer'}]",2025-10-13 01:27:07.653635
+UNITED STATES (USA),,1507,NITE EQUIPMENT INC. (NORTHERN IL. TRACTOR & EQUIP.),"[{'IsPrimary': False, 'Name': 'Truck'}]",2025-10-13 01:27:07.653635
+UNITED STATES (USA),,1509,EAST TEXAS TRAILERS,"[{'IsPrimary': True, 'Name': 'Trailer'}]",2025-10-13 01:27:07.653635
+UNITED STATES (USA),,1510,CHALMERS AUTOMOTIVE LLC,"[{'IsPrimary': False, 'Name': 'Multipurpose Passenger Vehicle (MPV)'}]",2025-10-13 01:27:07.653635
+UNITED STATES (USA),,1511,FIVE DIAMOND TRAILERS,"[{'IsPrimary': False, 'Name': 'Trailer'}, {'IsPrimary': False, 'Name': 'Incomplete Vehicle'}]",2025-10-13 01:27:07.653635
+UNITED STATES (USA),,1512,"KINGSPORT IRON & METAL, LLC","[{'IsPrimary': False, 'Name': 'Trailer'}]",2025-10-13 01:27:07.653635
+UNITED STATES (USA),,1513,WYOMING MACHINERY COMPANY,"[{'IsPrimary': False, 'Name': 'Truck'}]",2025-10-13 01:27:07.653635
+UNITED STATES (USA),,1514,VANTEM MODULAR LLC,"[{'IsPrimary': False, 'Name': 'Trailer'}]",2025-10-13 01:27:07.653635
+UNITED STATES (USA),,1515,ROBINSON METAL INC.,"[{'IsPrimary': False, 'Name': 'Trailer'}]",2025-10-13 01:27:07.653635
+UNITED STATES (USA),,1516,LIMOUSINE MANUFACTURING CORP.,"[{'IsPrimary': False, 'Name': 'Passenger Car'}, {'IsPrimary': True, 'Name': 'Bus'}, {'IsPrimary': False, 'Name': 'Multipurpose Passenger Vehicle (MPV)'}]",2025-10-13 01:27:07.653635
+UNITED STATES (USA),,1517,OREGON TRAILER LLC,"[{'IsPrimary': False, 'Name': 'Trailer'}]",2025-10-13 01:27:07.653635
+UNITED STATES (USA),,1518,SCAG GIANT-VAC,[],2025-10-13 01:27:07.653635
+UNITED STATES (USA),,1519,"C.J. SEITZ, INC.","[{'IsPrimary': False, 'Name': 'Trailer'}]",2025-10-13 01:27:07.653635
+UNITED STATES (USA),,1520,CHIMERA CUSTOMS,"[{'IsPrimary': True, 'Name': 'Motorcycle'}]",2025-10-13 01:27:07.653635
+UNITED STATES (USA),,1522,WESTAR MANUFACTURING,"[{'IsPrimary': False, 'Name': 'Trailer'}]",2025-10-13 01:27:07.653635
+CHINA,,1523,"CHANGZHOU WUYI LAMPS CO., LTD.",[],2025-10-13 01:27:07.653635
+CHINA,,1524,"CHANGZHOU FUJIANG VEHICLE INDUSTRY CO., LTD.",[],2025-10-13 01:27:07.653635
+CHINA,,1525,"PERFIT LIGHTING & ELECTRIC MANUFACTURING CO., LTD.",[],2025-10-13 01:27:07.653635
+UNITED STATES (USA),,1526,RYAN SIMPSON,"[{'IsPrimary': False, 'Name': 'Trailer'}]",2025-10-13 01:27:07.653635
+UNITED STATES (USA),,1528,"BAHNWAGEN, LLC","[{'IsPrimary': False, 'Name': 'Trailer'}]",2025-10-13 01:27:07.653635
+UNITED STATES (USA),,1529,"IOWA STEEL FABRICATORS, LLC","[{'IsPrimary': False, 'Name': 'Trailer'}]",2025-10-13 01:27:07.653635
+UNITED STATES (USA),,1530,ECOTREK CAMPER,"[{'IsPrimary': False, 'Name': 'Trailer'}]",2025-10-13 01:27:07.653635
+UNITED STATES (USA),,1532,TRI-STATE CHOPPER LLC,"[{'IsPrimary': False, 'Name': 'Motorcycle'}]",2025-10-13 01:27:07.653635
+UNITED STATES (USA),,1533,"RYFAB AND COATINGS, INC.","[{'IsPrimary': False, 'Name': 'Trailer'}, {'IsPrimary': False, 'Name': 'Incomplete Vehicle'}]",2025-10-13 01:27:07.653635
+UNITED STATES (USA),,1534,M.B. WELDING AND FABRICATION LLC,"[{'IsPrimary': False, 'Name': 'Trailer'}]",2025-10-13 01:27:07.653635
+DENMARK,,1535,TI AUTOMOTIVE TECHNOLOGY CENTRE GMBH,[],2025-10-13 01:27:07.653635
+INDIA,,1536,BUNDY INDIA LTD.,[],2025-10-13 01:27:07.653635
+INDIA,,1537,HANIL TUBE INDIA PRIVATE LIMITED,[],2025-10-13 01:27:07.653635
+INDONESIA,,1538,PT TI AUTOMOTIVE LIMITED,[],2025-10-13 01:27:07.653635
+ITALY,,1539,TI AUTOMOTIVE BRINDISI S.R.L.,[],2025-10-13 01:27:07.653635
+ITALY,,1540,TI AUTOMOTIVE CISLIANO S.R.L.,[],2025-10-13 01:27:07.653635
+ITALY,,1541,TI GROUP AUTOMOTIVE SYSTEMS S.P.A.,[],2025-10-13 01:27:07.653635
+JAPAN,,1542,TI AUTOMOTIVE JAPAN GUNMA LTD.,[],2025-10-13 01:27:07.653635
+JAPAN,,1543,TI AUTOMOTIVE JAPAN LTD.,[],2025-10-13 01:27:07.653635
+SOUTH KOREA,,1544,"HANIL TUBE CO., LTD.",[],2025-10-13 01:27:07.653635

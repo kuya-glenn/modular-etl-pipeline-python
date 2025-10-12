@@ -1,0 +1,24 @@
+{
+    "columns": {
+        "mfr_id": {
+            "type": "int"
+        },
+        "country": {
+            "type": "string"
+        },
+        "mfr_commonname": {
+            "type": "string"
+        },
+        "mfr_name": {
+            "type": "string"
+        },
+        "vehicletypes": {
+            "type": "object"
+        },
+        "date_fetched": {
+            "type": "datetime",
+            "format": "US"
+        }
+    },
+    "fileType": "parquet"
+}
