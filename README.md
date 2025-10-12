@@ -3,7 +3,7 @@ Initial Commit - <br/>
   **Parser** : Parse the Data with the mapping generatod. <br/>
 
 **Roadmap:** <br/>
-  Mapping Generator -** (Done)** <br/>
+  Mapping Generator - **(Done)** <br/>
   Parser - **(Done)** <br/>
   Load to Staging Database (Oracle/Postgres) - _Under Development_ <br/>
   Transform from staging database - > Load into GCP - _Under Development_ <br/>
