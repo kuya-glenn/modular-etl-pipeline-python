@@ -1,0 +1,11 @@
+{
+    "columns": {
+        "mrf_id": {
+            "type": "int"
+        },
+        "mrf_vehicleinfo": {
+            "type": "string"
+        }
+    },
+    "fileType": "parquet"
+}
