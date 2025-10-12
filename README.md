@@ -1,6 +1,6 @@
 Initial Commit - <br/>
-  **Mapping Generator** : Generates JSON file for the data type mapping.<br/>
-  **Parser** : Parse the Data with the mapping generatod. <br/>
+  **Mapping Generator** : Generates JSON file for the data type mapping. <br/>
+  **Parser** : Parse the Data with the mapping generated. Added Data Model Verification <br/>
 
 **Roadmap:** <br/>
   Mapping Generator - **(Done)** <br/>
