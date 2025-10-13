@@ -12,7 +12,7 @@ filename = "sample_carmaker_oracle.csv"
 mapping_dir = r"C:\Users\Juan\Desktop\ING\parser_mapping"
 mapping_filename = "vehicleData_mapping.json"
 
-print(f"Loading Mapping File: {mapping_dir}\\{mapping_filename}\n")
+print(f"Loading Mapping File: {mapping_filename}\n")
 with open(f"{mapping_dir}\\{mapping_filename}", 'r') as f:
     mapping = json.load(f)
 #print(mapping)
@@ -20,7 +20,7 @@ with open(f"{mapping_dir}\\{mapping_filename}", 'r') as f:
 print(f"Mapping file loaded: {mapping_filename}\n")
 
 if os.path.exists(f"{landing_dir}\\{filename}"):
-    print(f"Loading data to dataframe: {landing_dir}\\{filename}\n")
+    print(f"Loading data to dataframe: {filename}\n")
     df = pd.read_csv(f"{landing_dir}\\{filename}")
     df.columns = df.columns.str.lower()
 else:
@@ -78,4 +78,4 @@ if partition_col and partition_col in df.columns:
             print(f"file successfully parsed to {parsed_output}\\{partition_col}={key}\\{filename}.paquet")
 else:
     df.to_parquet(f"{parsed_output}\\{filename}.paquet", engine="pyarrow", index=False)
-    print(f"File successfully parsed to {parsed_output}\\{filename}.paquet")
+    print(f"File successfully parsed to {filename}.paquet")
