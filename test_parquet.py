@@ -1,6 +1,6 @@
 import pandas as pd
 
-landing_dir = r"C:\Users\Juan\Desktop\ING\parsed_output"
+landing_dir = r".\parsed_output"
 filename = "sample_carmaker_oracle.csv.paquet"
 df = pd.read_parquet(f"{landing_dir}\\{filename}")
 print(df.applymap(lambda x: isinstance(x, pd._libs.missing.NAType)).sum())

@@ -1,7 +1,7 @@
 # API Extraction - Transformation - Loading <br/>
 
 ## Objective
-  **Demonstrate ability to create a pipeline from scratch using **Python**, **OracleDB**, **Google BigQuery** or **AWS S3** **
+  Demonstrate ability to create a pipeline from scratch using **Python**, **OracleDB**, **Google BigQuery** or **AWS S3**
 
 ## Completed
   **Mapping Generator** : Generates JSON file for the data type mapping. <br/>
@@ -9,6 +9,8 @@
   **Data Loader** : Loads data to OracleDB staging Table. <br/>
 
 ## **Roadmap** <br/>
+  ### Fetch Data from API - **(Done)** <br/>
+  ### Fetch Data from S3 Bucket - _Under Development_ <br/>
   ### Mapping Generator - **(Done)** <br/>
   ### Parser - **(Done)** <br/>
   ### Load to Staging Database (Oracle/Postgres) - **(Done)** <br/>
@@ -55,3 +57,7 @@
       - Informatica Workflow <br/>
       - Talend Workflow <br/>
       - Cloud Platforms (GCP/AWS) <br/>
+  - Add Kafka to decouple data extraction, transformation, and loading stages: <br/>
+      - Use Kafka Topics to stream Data between ETL components. <br/>
+      - Improve Scalability and fault tolerance. <br/>
+      - Enable near real-time processing and modular architecture. <br/>

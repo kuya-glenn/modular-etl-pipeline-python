@@ -3,13 +3,13 @@ import pandas as pd
 import pyarrow
 import os
 
-landing_dir = r"C:\Users\Juan\Desktop\ING\landing_dir"
+landing_dir = r".\landing_dir"
 ## Will implement filename matching on future updates
 
 ## Sample Filename for ingestion
 filename = "sample_carmaker_oracle.csv"
 
-mapping_dir = r"C:\Users\Juan\Desktop\ING\parser_mapping"
+mapping_dir = r".\parser_mapping"
 mapping_filename = "vehicleData_mapping.json"
 
 print(f"Loading Mapping File: {mapping_filename}\n")
@@ -68,7 +68,7 @@ partition_col = mapping.get("partition_column")
 
 partition_col = mapping.get("partition_column")
 file_type = mapping.get("fileType")
-parsed_output = r"C:\Users\Juan\Desktop\ING\parsed_output"
+parsed_output = r".\parsed_output"
 print(f"\nFile type: {file_type}")
 
 if partition_col and partition_col in df.columns:

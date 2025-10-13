@@ -4,7 +4,7 @@ import pandas as pd
 ## To be encrypted
 connStr = "system/root@localhost:1521/xe"
 
-PARSED_OUTPUT = r"C:\Users\Juan\Desktop\ING\PARSED_OUTPUT\sample_carmaker_oracle.csv.paquet"
+PARSED_OUTPUT = r".\PARSED_OUTPUT\sample_carmaker_oracle.csv.paquet"
 TBL_NAME = "vehicle_data_staging"
 BATCH_SIZE = 5
 
