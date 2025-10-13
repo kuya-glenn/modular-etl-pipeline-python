@@ -1,12 +1,9 @@
 import oracledb
 import pandas as pd
-
+import sys
 ## To be encrypted
 connStr = "system/root@localhost:1521/xe"
 
-PARSED_OUTPUT = r".\PARSED_OUTPUT\sample_carmaker_oracle.csv.paquet"
-TBL_NAME = "vehicle_data_staging"
-BATCH_SIZE = 5
 
 def load_PARSED_OUTPUT(path):
     try:
@@ -20,15 +17,15 @@ def load_PARSED_OUTPUT(path):
         print("Error has occured. Please check data to be loaded")
         raise e
 
-def insert_query(df):
+def insert_query(df, tbl_name):
     cols = df.columns.to_list()
     col_toStr = ', '.join(cols)
     placeholder = ', '.join([f':{i+1}' for i in range(len(cols))])
-    return f"INSERT INTO {TBL_NAME} ({col_toStr}) VALUES ({placeholder})"
+    return f"INSERT INTO {tbl_name} ({col_toStr}) VALUES ({placeholder})"
 
-def insert_oracle(df):
+def insert_oracle(df, tbl_name, batch_size):
     rows = [tuple(row) for row in df.to_numpy()]
-    query = insert_query(df)
+    query = insert_query(df, tbl_name)
 
     with oracledb.connect(connStr) as conn:
         with conn.cursor() as cur:
@@ -36,8 +33,8 @@ def insert_oracle(df):
             total_insert = 0
 
             try:
-                for i in range(0, len(rows), BATCH_SIZE):
-                    batch = rows[i:i + BATCH_SIZE]
+                for i in range(0, len(rows), batch_size):
+                    batch = rows[i:i + batch_size]
                     cur.executemany(query, batch)
                     conn.commit()
                     total_insert += len(batch)
@@ -47,17 +44,17 @@ def insert_oracle(df):
                 conn.rollback()
                 raise e
 
-    print(f"Inserted {total_insert} rows into {TBL_NAME}.")
+    print(f"Inserted {total_insert} rows into {tbl_name}.")
 
-def main():
+def main(parsed_output, tbl_name, batch_size):
     try:
-        df = load_PARSED_OUTPUT(PARSED_OUTPUT)
+        df = load_PARSED_OUTPUT(parsed_output)
 
 
         print("Connection established")
 
-        print(f"Inserting data to {TBL_NAME}")
-        insert_oracle(df)
+        print(f"Inserting data to {tbl_name}")
+        insert_oracle(df, tbl_name, batch_size)
 
     except Exception as e:
         print('Error while connecting to oracle db')
@@ -67,4 +64,7 @@ def main():
         print("Execution Completed")
 
 if __name__ == "__main__":
-    main()
+    parsed_output = sys.argv[1]
+    tbl_name = sys.argv[2]
+    batch_size = sys.argv[2]
+    main(parsed_output, tbl_name, batch_size)

@@ -23,7 +23,7 @@ def willSleep(duration):
     print(f"Waiting Duration {duration}")
     time.sleep(duration)
 
-for page in range(1,6):
+for page in range(1,10):
     print(f"Fetching Page {page}")
     params = {"format":"json", "page": page}
 
