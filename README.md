@@ -16,14 +16,14 @@
   **(c) Data Loader** : Loads data to OracleDB staging Table. <br/>
 
 ## **Roadmap** <br/>
-  ### Fetch Data from API - **(Done)** <br/>
-  ### Fetch Data from S3 Bucket - _Under Development_ <br/>
-  ### Mapping Generator - **(Done)** <br/>
-  ### Parser - **(Done)** <br/>
-  ### Load to Staging Database (Oracle/Postgres) - **(Done)** <br/>
-  ### Transform from staging database - > Load into GCP - _Under Development_ <br/>
-  ### Create a workflow to Automate the process - _Data Gathering Stage_ <br/>
-  ### Create Report from Prod Data - _Under Development_ <br/>
+  #### Fetch Data from API - **(Done)** <br/>
+  #### Fetch Data from S3 Bucket - _Under Development_ <br/>
+  #### Mapping Generator - **(Done)** <br/>
+  #### Parser - **(Done)** <br/>
+  #### Load to Staging Database (Oracle/Postgres) - **(Done)** <br/>
+  #### Transform from staging database - > Load into GCP - _Under Development_ <br/>
+  #### Create a workflow to Automate the process - _Data Gathering Stage_ <br/>
+  #### Create Report from Prod Data - _Under Development_ <br/>
 
 ## (a)  Mapping Generator <br/>
 <img width="727" height="242" alt="image" src="https://github.com/user-attachments/assets/d4ebd3ab-b95c-4b9c-9716-3993440d765b" />
