@@ -1,5 +1,4 @@
-Initial Commit - <br/>
-# API Extraction - Transformation - Loading 
+# API Extraction - Transformation - Loading <br/>
 
 ## Objective
   **Demonstrate ability to create a pipeline from scratch using **Python**, **OracleDB**, **Google BigQuery** or **AWS S3** **
@@ -31,6 +30,15 @@ Initial Commit - <br/>
   - Parses the data according to the mapping.json created from Mapping Generator. <br/>
   - Added partitioning support. <br/>
   - Creates a parsed output that will be used to be loaded in the table. <br/>
+
+ ## Data Loader Flow: <br/>
+  Get Data from Parsed Output - > Load Data to Dataframe - > Remove NaN values - > Batch insert data to Staging Table. <br/>
+
+  ### Sample Data Loader run <br/>
+  <img width="411" height="130" alt="image" src="https://github.com/user-attachments/assets/4931ac8c-5c38-430f-8ecf-f29f291f4340" /> <br/>
+
+  ### Loaded to Sample Table <br/>
+  <img width="1783" height="374" alt="image" src="https://github.com/user-attachments/assets/ebcb83d0-b249-4a26-b62e-a0d91ddc9f84" /> <br/>
 
 ## Future Plans <br/>
   - Mapping Generator : <br/>
