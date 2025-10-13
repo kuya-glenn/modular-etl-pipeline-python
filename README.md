@@ -7,11 +7,12 @@ Initial Commit - <br/>
 ## Completed
   **Mapping Generator** : Generates JSON file for the data type mapping. <br/>
   **Parser** : Parse the Data with the mapping generated. Added Data Model Verification <br/>
+  **Data Loader** : Loads data to OracleDB staging Table. <br/>
 
 ## **Roadmap** <br/>
   ### Mapping Generator - **(Done)** <br/>
   ### Parser - **(Done)** <br/>
-  ### Load to Staging Database (Oracle/Postgres) - _Under Development_ <br/>
+  ### Load to Staging Database (Oracle/Postgres) - **(Done)** <br/>
   ### Transform from staging database - > Load into GCP - _Under Development_ <br/>
   ### Create a workflow to Automate the process - _Data Gathering Stage_ <br/>
   ### Create Report from Prod Data - _Under Development_ <br/>
@@ -30,3 +31,19 @@ Initial Commit - <br/>
   - Parses the data according to the mapping.json created from Mapping Generator. <br/>
   - Added partitioning support. <br/>
   - Creates a parsed output that will be used to be loaded in the table. <br/>
+
+## Future Plans <br/>
+  - Mapping Generator : <br/>
+      - Add target table for Dataload script to use <br/>
+  - Parsing : <br/>
+      - Add manual config for parsing_stg and mapping.json destination files. This will: <br/>
+        - Make the script re-runnable for multiple data source/feed <br/>
+        - Can be automated for multiple data source/feed <br/>
+  - Data Loader : <br/>
+      - Use mapping.json for parsed_output destination definition. This will: <br/>
+        - Users will no longer define the variables inside the script. <br/>
+        - Can make the script re-runnable with multiple data source/feed <br/>
+  - Create Data Workflow via Nifi. In this case it will simulate: <br/>
+      - Informatica Workflow <br/>
+      - Talend Workflow <br/>
+      - Cloud Platforms (GCP/AWS) <br/>
