@@ -34,10 +34,11 @@
 <img width="583" height="350" alt="image" src="https://github.com/user-attachments/assets/d3ce3422-d529-45b4-a9d9-6e71a678d2bd" /><br/>
 
   ### Data Parser Flow <br/>
-      Get Raw Data from landing_dir - > Load Mapping.json - > Map data according to mapping.json - > Create parsed output file on parsed_output. 
-<br/>
+
+  Get Raw Data from landing_dir - > Load Mapping.json - > Map data according to mapping.json - > Create parsed output file on parsed_output. <br/>
       - Use parser_runner.py to indicate pipeline parameters <br/>
-        - parser.main(r".\landing_dir", "sample_carmaker_oracle.csv", r".\parsed_output", r".\parser_mapping", "vehicleData_mapping.json") <br/>
+        parser.main(r".\landing_dir", "sample_carmaker_oracle.csv", r".\parsed_output", r".\parser_mapping", "vehicleData_mapping.json") 
+        <br/>
         - Run parser_runner.py <br/>
         
 ## (b) Sample Parsed Output <br/>
