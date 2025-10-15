@@ -72,8 +72,8 @@ def main(landing_dir, filename, parsed_output, mapping_dir, mapping_filename):
                 df.to_parquet(f"{parsed_output}\\{partition_col}={key}\\{filename}.paquet", engine="pyarrow", index=False)
                 print(f"file successfully parsed to {parsed_output}\\{partition_col}={key}\\{filename}.paquet")
     else:
-        df.to_parquet(f"{parsed_output}\\{filename}.paquet", engine="pyarrow", index=False)
-        print(f"File successfully parsed to {filename}.paquet")
+        df.to_csv(f"{parsed_output}\\{filename}", index=False)
+        print(f"File successfully parsed to {filename}")
 
 if __name__ == "__main__":
     landing_dir = sys.argv[1]

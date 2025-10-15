@@ -19,6 +19,5 @@
             "type": "datetime",
             "format": "US"
         }
-    },
-    "fileType": "parquet"
+    }
 }

@@ -7,9 +7,22 @@
     date_fetched TIMESTAMP(6)
 );*/
 
-/*
+
+/*select * from vehicle_data_staging;*/
+SELECT vs.MFR_ID, vs.COUNTRY, vs.MFR_COMMONNAME, vs.MFR_NAME,
+        t.IsPrimary,
+        t.Name
+        FROM vehicle_data_staging vs,
+        JSON_TABLE (vs.VEHICLETYPES,
+            '$[*]' COLUMNS (
+                            IsPrimary VARCHAR2(255) PATH '$.IsPrimary',
+                            Name VARCHAR2(255) PATH '$.Name'
+                            )) t;
+
+        
 select * from vehicle_data_staging;
 
+/*
 truncate table vehicle_data_staging;
 
 rollback;
